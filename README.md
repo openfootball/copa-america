@@ -59,6 +59,9 @@ Matchday 2 / Group A
 Use the `sportdb` command line tool to build your own `football.db` copy
 from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
 
+Note, the Copa América includes national team invitees from other continents (confederations)
+e.g. Mexico, Costa Rica, Japan, etc.
+
 
 ## Questions? Comments?
 
