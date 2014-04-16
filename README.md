@@ -25,23 +25,23 @@ Example:
 
 ~~~
 ##################################
-# Copa América 2011 Argentina
+#  Copa América 2011 Argentina
 
-# Groups
 
 Group A  |  Argentina   Colombia   Bolivia    Costa Rica
 Group B  |  Brazil      Paraguay   Venezuela  Ecuador
 Group C  |  Uruguay     Chile      Peru       Mexico
 
-# Group A
 
-Matchday 1 / Group A
+Matchday 1  |  Jul/1
+Matchday 2  |  Jul/2
+Matchday 3  |  Jul/3
+...
 
-2011-07-01 21:45   Argentina  1-1  Bolivia    
+Group A:
 
-Matchday 2 / Group A
-
-2011-07-02 15:30  Colombia    1-0  Costa Rica    
+Jul/1 21:45   Argentina  1-1  Bolivia
+Jul/2 15:30   Colombia   1-0  Costa Rica
 ...
 ~~~
 

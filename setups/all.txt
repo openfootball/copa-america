@@ -1,13 +1,7 @@
 ###################
 # All Fixtures
 
-# Leagues
 copa-america!/leagues
-
-
-# 2011
 copa-america!/2011/copa
-
-# 2015
 copa-america!/2015/copa
 
