@@ -24,14 +24,6 @@ Free open public domain football data for national teams in South America. Event
 Example:
 
 ~~~
-### National Teams
-
-arg, Argentina,   ARG, ar
-bra, Brazil,      BRA, br
-...
-~~~
-
-~~~
 ##################################
 # Copa América 2011 Argentina
 
