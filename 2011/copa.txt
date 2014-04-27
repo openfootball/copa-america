@@ -63,15 +63,15 @@ Jul/12 21:45   Uruguay 1-0  Mexico
 
 (13) Quarterfinals
 
-Jul/16 16:00    Colombia   0-0 0-2nV         Peru
-Jul/16 19:15    Argentina  1-1 1-1nV 4-5iE   Uruguay
-Jul/17 16:00    Brazil     0-0 0-0nV 0-2iE   Paraguay
-Jul/17 19:15    Chile      1-2               Venezuela
+Jul/16 16:00    Colombia   0-0 0-2 a.e.t.           Peru
+Jul/16 19:15    Argentina  1-1 1-1 a.e.t. 4-5 pen   Uruguay
+Jul/17 16:00    Brazil     0-0 0-0 a.e.t. 0-2 pen   Paraguay
+Jul/17 19:15    Chile      1-2                   Venezuela
 
 (14) Semifinals
 
-Jul/19 21:45    Peru      0-2              Uruguay
-Jul/20 21:45    Paraguay  0-0 0-0nV 5-3iE  Venezuela   
+Jul/19 21:45    Peru      0-2                  Uruguay
+Jul/20 21:45    Paraguay  0-0 0-0 a.e.t. 5-3 pen  Venezuela   
 
 (15) Third-place play-off
 
