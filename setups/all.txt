@@ -1,6 +1,6 @@
 ###################
 # All Fixtures
 
-copa-america!/2011/copa
-copa-america!/2015/copa
+copa-america!/2011--argentina/copa
+copa-america!/2015--chile/copa
 

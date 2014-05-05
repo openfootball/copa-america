@@ -1,6 +1,7 @@
 # South America / Copa América
 
-Free open public domain football data (football.db) for national teams in South America (e.g. Copa América)
+Free open public domain football data (football.db)
+for national teams in South America (e.g. Copa América)
 
 
 ## What's `football.db`?
@@ -46,9 +47,9 @@ Jul/2 15:30   Colombia   1-0  Costa Rica
 ~~~
 
 
-## Build Your Own `football.db` Copy
+## Build Your Own `copaamerica.db` Copy
 
-Use the `sportdb` command line tool to build your own `football.db` copy
+Use the `sportdb` command line tool to build your own `copaamerica.db` copy
 from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
 
 Note, the Copa América includes national team invitees from other continents (confederations)
