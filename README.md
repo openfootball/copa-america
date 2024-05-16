@@ -24,9 +24,8 @@ Free open public domain football data for national teams in South America. Event
 
 Example:
 
-~~~
-##################################
-#  Copa América 2011 Argentina
+```
+= Copa América 2011   # in Argentina
 
 
 Group A  |  Argentina   Colombia   Bolivia    Costa Rica
@@ -44,7 +43,7 @@ Group A:
 Jul/1 21:45   Argentina  1-1  Bolivia
 Jul/2 15:30   Colombia   1-0  Costa Rica
 ...
-~~~
+```
 
 
 ## Build Your Own `copaamerica.db` Copy

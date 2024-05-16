@@ -1,5 +1,4 @@
-##################################
-#  Copa América 2011 Argentina
+= Copa América 2011       # in Argentina
 
 
 Group A  |  Argentina   Colombia   Bolivia    Costa Rica
@@ -61,23 +60,23 @@ Jul/12 21:45   Uruguay 1-0  Mexico
 ##############
 # Finals
 
-(13) Quarterfinals
+Quarterfinals
 
-Jul/16 16:00    Colombia   0-0 0-2 a.e.t.           Peru
-Jul/16 19:15    Argentina  1-1 1-1 a.e.t. 4-5 pen   Uruguay
-Jul/17 16:00    Brazil     0-0 0-0 a.e.t. 0-2 pen   Paraguay
+Jul/16 16:00    Colombia    0-2 a.e.t. (0-0)           Peru
+Jul/16 19:15    Argentina  4-5 pen 1-1 a.e.t. (1-1)    Uruguay
+Jul/17 16:00    Brazil     0-2 pen 0-0 a.e.t. (0-0)   Paraguay
 Jul/17 19:15    Chile      1-2                   Venezuela
 
-(14) Semifinals
+Semifinals
 
-Jul/19 21:45    Peru      0-2                  Uruguay
-Jul/20 21:45    Paraguay  0-0 0-0 a.e.t. 5-3 pen  Venezuela   
+Jul/19 21:45    Peru      0-2                    Uruguay
+Jul/20 21:45    Paraguay  5-3 pen 0-0 a.e.t. (0-0)    Venezuela   
 
-(15) Third-place play-off
+Third-place play-off
 
 Jul/23 16:00    Peru   4-1  Venezuela
 
-(16) Final
+Final
 
 Jul/24 16:00    Uruguay  3-0  Paraguay
 
