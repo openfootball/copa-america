@@ -1,0 +1,94 @@
+= Copa América 2024      # in USA
+
+
+Group A  |  Argentina       Peru       Chile      Canada  
+Group B  |  Mexico          Ecuador    Venezuela  Jamaica
+Group C  |  United States   Uruguay    Panama     Bolivia 
+Group D  |  Brazil          Colombia   Paraguay   Costa Rica
+
+
+Matchday 1  |  Jun/20
+Matchday 2  |  Jun/21
+Matchday 3  |  Jun/22
+Matchday 4  |  Jun/23
+Matchday 5  |  Jun/24
+
+Matchday 6  |  Jun/25
+Matchday 7  |  Jun/26
+Matchday 8  |  Jun/27
+Matchday 9  |  Jun/28
+
+Matchday 10 |  Jun/29
+Matchday 11 |  Jun/30
+Matchday 12 |  Jul/1
+Matchday 13 |  Jul/2
+
+
+
+Group A:
+
+ (1) Jun/20 20:00    Argentina      -   Canada  @ Mercedes-Benz Stadium, Atlanta, Georgia (UTC−4)
+ (2) Jun/21 19:00    Peru           -   Chile   @ AT&T Stadium, Arlington, Texas (UTC−5)
+
+(10) Jun/25 17:00    Peru           -   Canada    @ Children's Mercy Park, Kansas City, Kansas (UTC−5)
+ (9) Jun/25 21:00    Chile          -   Argentina @ MetLife Stadium, East Rutherford, New Jersey (UTC−4)
+
+(17) Jun/29 20:00    Argentina      -   Peru    @ Hard Rock Stadium, Miami Gardens, Florida (UTC−4)
+(18) Jun/29 20:00    Canada         -   Chile   @ Inter&Co Stadium, Orlando, Florida (UTC−4)
+
+Group B: 
+
+ (4) Jun/22 15:00    Ecuador        -   Venezuela  @ Levi's Stadium, Santa Clara, California (UTC−7)
+ (3) Jun/22 20:00    Mexico        -   Jamaica    @ NRG Stadium, Houston, Texas (UTC−5)
+
+(12) Jun/26 15:00    Ecuador        -   Jamaica  @ Allegiant Stadium, Las Vegas, Nevada (UTC−7)
+(11) Jun/26 18:00    Venezuela    -   Mexico   @ SoFi Stadium, Inglewood, California (UTC−7)
+
+(19) Jun/30 17:00    Mexico        -   Ecuador  @ State Farm Stadium, Glendale, Arizona (UTC−7)
+(20) Jun/30 19:00    Jamaica        -   Venezuela  @ Q2 Stadium, Austin, Texas (UTC−5)
+
+Group C: 
+
+ (5) Jun/23 17:00    United States   -  Bolivia   @ AT&T Stadium, Arlington, Texas (UTC−5)
+ (6) Jun/23 21:00    Uruguay         -   Panama    @ Hard Rock Stadium, Miami Gardens, Florida (UTC−4)
+
+(13) Jun/27 18:00    Panama       -   United States  @ Mercedes-Benz Stadium, Atlanta, Georgia (UTC−4)
+(14) Jun/27 21:00    Uruguay      -    Bolivia    @ MetLife Stadium, East Rutherford, New Jersey (UTC−4)
+
+(21) Jul/1 20:00     United States   -  Uruguay   @ Arrowhead Stadium, Kansas City, Missouri (UTC−5)
+(22) Jul/1 21:00     Bolivia         -   Panama    @ Inter&Co Stadium, Orlando, Florida (UTC−4)
+
+
+Group D:
+
+ (8) Jun/24 17:00    Colombia         -   Paraguay   @ NRG Stadium, Houston, Texas (UTC−5) 
+ (7) Jun/24 18:00    Brazil           -   Costa Rica @ SoFi Stadium, Inglewood, California (UTC−7)
+
+(16) Jun/28 15:00    Colombia         -    Costa Rica  @ State Farm Stadium, Glendale, Arizona (UTC−7)
+(15) Jun/28 18:00    Paraguay         -     Brazil      @ Allegiant Stadium, Las Vegas, Nevada (UTC−7)
+
+(23) Jul/2 18:00     Brazil           -   Colombia    @ Levi's Stadium, Santa Clara, California (UTC−7)
+(24) Jul/2 20:00     Costa Rica       -   Paraguay    @ Q2 Stadium, Austin, Texas (UTC−5)
+
+
+
+Quarter-finals
+
+# (25) Jul/4 20:00   Winner Group A     -   Runner-up Group B  @ NRG Stadium, Houston, Texas (UTC−5)
+# (26) Jul/5 20:00  Winner Group B     -   Runner-up Group A  @ AT&T Stadium, Arlington, Texas (UTC−5)
+# (27) Jul/6 18:00  Winner Group C     -   Runner-up Group D  @ Allegiant Stadium, Las Vegas, Nevada (UTC−7)
+# (28) Jul/6 15:00  Winner Group D     -   Runner-up Group C  @ State Farm Stadium, Glendale, Arizona (UTC−7)
+
+Semi-finals
+
+# (29) Jul/9 20:00   Winner Match 25    -   Winner Match 26   @ MetLife Stadium, East Rutherford, New Jersey (UTC−4)
+# (30) Jul/10 20:00  Winner Match 27    -   Winner Match 28   @ Bank of America Stadium, Charlotte, North Carolina (UTC−4)
+
+Third place play-off
+
+# (31) Jul/13 20:00  Loser Match 29     -   Loser Match 30  @ Bank of America Stadium, Charlotte, North Carolina (UTC−4)
+
+Final
+
+# (32) Jul/14 20:00   Winner Match 29      -   Winner Match 30  @ Hard Rock Stadium, Miami Gardens, Florida (UTC−4)
+

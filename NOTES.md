@@ -8,6 +8,12 @@
 - nb: special copa in 2016 in the United States (centenario de conmebol)
 
 
+## Copa América 2024 
+
+- June 20 – July 14
+- Teams	16 (from 2 confederations)
+- Venue(s)	14 (in 14 host cities)
+
 
 ## Copa América 2015 Chile
 
@@ -53,8 +59,11 @@
 
 
 
+
 ### Wikipedia
 
+- [2024_Copa_América](https://en.wikipedia.org/wiki/2024_Copa_América)
+- ...
 - [2015_Copa_América](http://en.wikipedia.org/wiki/2015_Copa_América)
 - [2011_Copa_América](http://en.wikipedia.org/wiki/2011_Copa_América)
 
