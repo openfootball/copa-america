@@ -15,6 +15,22 @@
 - Venue(s)	14 (in 14 host cities)
 
 
+CONMEBOL Copa América 2024 will be held in 14 cities across the United States, from June 20 to July 14, 2024, with each location hosting 2 or 3 games.
+
+The 14 stadiums spread across 10 states on the East Coast, Central Zone and West Coast will be dressed in the colors and image of this new edition of the oldest and most exciting national team tournament in the world.
+
+On this occasion, the CONMEBOL Copa América will feature 32 games 
+over the 25 days of competition and 16 participating teams, 10 from CONMEBOL and six from Concacaf, as guests
+
+
+## Copa América 2021 Brazil
+
+- Dates:	13 June – 10 July
+- Teams:	10 (from 1 confederation)
+- Venue(s): 5 (in 4 host cities)
+
+
+
 ## Copa América 2015 Chile
 
 - July 2015

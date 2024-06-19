@@ -1,0 +1,113 @@
+= Copa América 2021      # in Brazil
+
+
+Group A  |  Argentina  Bolivia  Uruguay    Chile    Paraguay
+Group B  |  Colombia   Brazil   Venezuela  Ecuador  Peru
+
+Matchday 1  | Jun/13-Jun/14
+Matchday 2  | Jun/17-Jun/18
+Matchday 3  | Jun/20–Jun/21
+Matchday 4  | Jun/23–Jun/24
+Matchday 5  | Jun/27–Jun/28
+
+
+Group A:
+
+
+Jun/14 18:00   Argentina   1–1   Chile  @ Estádio Olímpico Nilton Santos, Rio de Janeiro # BRT (UTC−3)
+                   [Messi 33'; Vargas 57']
+
+       21:00   Paraguay   3–1   Bolivia  @ Estádio Olímpico Pedro Ludovico, Goiânia  # BRT (UTC−3)
+                  [Kaku 62' Á. Romero 65', 80';  Saavedra 10' (pen.)]
+
+Jun/18 17:00   Chile   1–0   Bolivia    @ Arena Pantanal, Cuiabá  # AMT (UTC−4)
+                  [Brereton 10']
+                    
+       21:00   Argentina   1–0   Uruguay   @ Estádio Nacional Mané Garrincha, Brasília  # BRT (UTC−3)
+                  [Rodríguez 13']  
+
+Jun/21 17:00   Uruguay   1–1   Chile   @ Arena Pantanal, Cuiabá   # AMT (UTC−4)
+                  [Suárez 66'; Vargas 26']
+
+       21:00   Argentina   1–0   Paraguay  @ Estádio Nacional Mané Garrincha, Brasília   # BRT (UTC−3)
+                   [Gómez 10']
+            
+Jun/24 17:00   Bolivia   0–2   Uruguay   @ Arena Pantanal, Cuiabá   # AMT (UTC−4)
+                  [-; Quinteros 40' (o.g.) Cavani 79']
+
+       21:00   Chile   0–2   Paraguay  @ Estádio Nacional Mané Garrincha, Brasília   # BRT (UTC−3)
+               [-; Samudio 33' Almirón 58' (pen.)]
+
+Jun/28 21:00   Uruguay   1–0   Paraguay  @ Estádio Olímpico Nilton Santos, Rio de Janeiro   # BRT (UTC−3)
+                 [Cavani 21' (pen.)]
+                 
+       20:00   Bolivia   1–4   Argentina  @ Arena Pantanal, Cuiabá  # AMT (UTC−4)
+                 [Saavedra 60'; Gómez 6' Messi 33' (pen.), 42' La. Martínez 65']
+
+
+Group B: 
+
+Jun/13 18:00   Brazil   3–0   Venezuela  @ Estádio Nacional Mané Garrincha, Brasília   # BRT (UTC−3)
+                [Marquinhos 23' Neymar 64' (pen.) Gabriel Barbosa 89']
+
+       20:00   Colombia   1–0   Ecuador  @ Arena Pantanal, Cuiabá   # AMT (UTC−4)
+                 [Cardona 42']
+
+Jun/17 18:00   Colombia   0–0   Venezuela  @ Estádio Olímpico Pedro Ludovico, Goiânia  # BRT (UTC−3)
+                 
+       21:00   Brazil   4–0   Peru  @ Estádio Olímpico Nilton Santos, Rio de Janeiro  # BRT (UTC−3)
+                 [Alex Sandro 12' Neymar 68' Ribeiro 89' Richarlison 90+3']
+
+Jun/20 18:00   Venezuela   2–2   Ecuador  @ Estádio Olímpico Nilton Santos, Rio de Janeiro  # BRT (UTC−3)
+                  [Castillo 51' Hernández 90+1'; Ay. Preciado 39' Plata 71']
+
+       21:00   Colombia   1–2   Peru  @ Estádio Olímpico Pedro Ludovico, Goiânia # BRT (UTC−3)
+                  [Borja 53' (pen.); Peña 17' Mina 64' (o.g.)]
+
+Jun/23 18:00   Ecuador   2–2   Peru  @ Estádio Olímpico Pedro Ludovico, Goiânia  # BRT (UTC−3)
+                  [Tapia 23' (o.g.) Ay. Preciado 45+3'; Lapadula 49' Carrillo 54']
+
+       21:00   Brazil   2–1   Colombia  @ Estádio Olímpico Nilton Santos, Rio de Janeiro    # BRT (UTC−3)
+                  [Firmino 78' Casemiro 90+10'; Díaz 10']
+
+Jun/27 18:00   Brazil   1–1   Ecuador   @ Estádio Olímpico Pedro Ludovico, Goiânia   # BRT (UTC−3)
+                 [Militão 37'; Mena 53']
+
+       18:00   Venezuela   0–1   Peru    @ Estádio Nacional Mané Garrincha, Brasília   # BRT (UTC−3)
+                 [-; Carrillo 48']
+
+
+
+Quarter-finals
+
+Jul/2 18:00    Peru     4-3 pen. (3–3)   Paraguay   @ Estádio Olímpico Pedro Ludovico, Goiânia   # BRT (UTC−3)
+                 [Gómez 21' (o.g.) Lapadula 40' Yotún  80'; Gómez 11' Alonso 54' Ávalos 90']
+
+Jul/2 21:00    Brazil   1–0   Chile  @ Estádio Olímpico Nilton Santos, Rio de Janeiro  # BRT (UTC−3)
+                  [Paquetá 46']
+        
+Jul/3 19:00    Uruguay  2-4 pen. (0–0)   Colombia   @ Estádio Nacional Mané Garrincha, Brasília   # BRT (UTC−3)
+
+Jul/3 22:00    Argentina   3–0   Ecuador   @ Estádio Olímpico Pedro Ludovico, Goiânia  # BRT (UTC−3)
+                 [De Paul 40' La. Martínez 84' Messi 90+3']
+
+
+Semi-finals
+
+Jul/5 20:00     Brazil   1–0   Peru   @ Estádio Olímpico Nilton Santos, Rio de Janeiro   # BRT (UTC−3)
+                   [Paquetá 35']
+                       
+Jul/6 22:00     Argentina 3-2 pen. (1–1)    Colombia  @ Estádio Nacional Mané Garrincha, Brasília  # BRT (UTC−3)
+                  [La. Martínez 7'; Díaz 61']
+
+
+Third place play-off
+
+Jul/9 21:00      Colombia   3–2   Peru  @ Estádio Nacional Mané Garrincha, Brasília  # BRT (UTC−3)
+                   [Cuadrado 49' Díaz 66', 90+4'; Yotún 45' Lapadula 82']
+
+Final
+
+Jul/10 21:00      Argentina   1–0   Brazil  @ Estádio do Maracanã, Rio de Janeiro   #  BRT (UTC−3)
+                      [Di María 22']
+
