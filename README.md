@@ -25,25 +25,27 @@ Free open public domain football data for national teams in South America. Event
 Example:
 
 ```
-= Copa América 2011   # in Argentina
+= Copa América 2024      # in USA
 
 
-Group A  |  Argentina   Colombia   Bolivia    Costa Rica
-Group B  |  Brazil      Paraguay   Venezuela  Ecuador
-Group C  |  Uruguay     Chile      Peru       Mexico
+Group A  |  Argentina       Peru       Chile      Canada  
+Group B  |  Mexico          Ecuador    Venezuela  Jamaica
+Group C  |  United States   Uruguay    Panama     Bolivia 
+Group D  |  Brazil          Colombia   Paraguay   Costa Rica
 
 
-Matchday 1  |  Jul/1
-Matchday 2  |  Jul/2
-Matchday 3  |  Jul/3
-...
+Matchday 1  |  Thu Jun/20 - Mon Jun/24
+Matchday 2  |  Tue Jun/25 - Fri Jun/28
+Matchday 3  |  Sat Jun/29 - Tue Jul/2
+
 
 Group A:
 
-Jul/1 21:45   Argentina  1-1  Bolivia
-Jul/2 15:30   Colombia   1-0  Costa Rica
-...
+ (1) Thu Jun/20 20:00    Argentina  -  Canada  @ Mercedes-Benz Stadium, Atlanta, Georgia (UTC−4)
+ (2) Fri Jun/21 19:00    Peru       -  Chile   @ AT&T Stadium, Arlington, Texas (UTC−5)
+ ...
 ```
+
 
 
 ## Build Your Own `copaamerica.db` Copy
@@ -55,8 +57,9 @@ Note, the Copa América includes national team invitees from other continents (c
 e.g. Mexico, Costa Rica, Japan, etc.
 
 
+
 ## Questions? Comments?
 
-Send them along to the
-[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
-Thanks!
+Yes, you can. More than welcome.
+See [Help & Support »](https://github.com/openfootball/help)
+
