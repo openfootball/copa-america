@@ -7,7 +7,7 @@
  22,  Luis Romero,                       GK,      0/0  , b. 1990,  Portuguesa F.C. (VEN)
 
   2,  Nahuel Ferraresi,                  DF,      4/0  , b. 1998,  Moreirense F.C. (POR)
-  3,  Mikel Villanueva,                  DF,     27/2  , b. 1993,  C.D. Santa Clara (PRT)
+  3,  Mikel Villanueva,                  DF,     27/2  , b. 1993,  C.D. Santa Clara (POR)
   4,  José Manuel Velázquez,             DF,     25/3  , b. 1990,  F.C. Arouca (POR)
   4,  Jhon Chancellor,                   DF,     20/1  , b. 1992,  Brescia Calcio (ITA)
   8,  Francisco La Mantía,               DF,      1/0  , b. 1996,  Deportivo La Guaira F.C. (VEN)
