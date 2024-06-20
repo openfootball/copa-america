@@ -8,7 +8,7 @@
 
   2,  Jairo Quinteros,                   DF,      1/0  , b. 2001,  Club Bolívar (BOL)
   3,  José Sagredo,                      DF,     25/0  , b. 1994,  The Strongest (BOL)
-  4,  Luis Haquin,                       DF,     18/1  , b. 1997,  Deportes Melipilla (CHL)
+  4,  Luis Haquin,                       DF,     18/1  , b. 1997,  Deportes Melipilla (CHI)
   5,  Adrián Jusino,                     DF,     13/0  , b. 1992,  Athlitiki Enosi Larissa F.C. (GRE)
   8,  Diego Bejarano,                    DF,     30/3  , b. 1991,  Club Bolívar (BOL)
  19,  Enrique Flores,                    DF,     13/0  , b. 1994,  Club Always Ready (BOL)
