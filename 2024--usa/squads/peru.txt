@@ -1,0 +1,34 @@
+====================================
+=  Peru - Copa América 2024
+
+
+  1,  Pedro Gallese,                     GK,    106/0  , b. 1990,  Orlando City SC (USA)
+ 12,  Carlos Cáceda,                     GK,      8/0  , b. 1991,  FBC Melgar (PER)
+ 21,  Diego Romero,                      GK,      0/0  , b. 2001,  Club Universitario de Deportes (PER)
+
+  2,  Luis Abram,                        DF,     41/1  , b. 1996,  Atlanta United FC (USA)
+  3,  Aldo Corzo,                        DF,     51/0  , b. 1989,  Club Universitario de Deportes (PER)
+  4,  Anderson Santamaría,               DF,     28/0  , b. 1992,  Atlas F.C. (MEX)
+  5,  Carlos Zambrano,                   DF,     72/4  , b. 1989,  Club Alianza Lima (PER)
+  6,  Marcos López,                      DF,     35/0  , b. 1999,  Feyenoord (NED)
+ 15,  Miguel Araujo,                     DF,     32/0  , b. 1994,  Portland Timbers (USA)
+ 17,  Luis Advíncula,                    DF,    118/2  , b. 1990,  Boca Juniors (ARG)
+ 19,  Oliver Sonne,                      DF,      3/0  , b. 2000,  Silkeborg IF (DEN)
+ 22,  Alexander Callens,                 DF,     41/1  , b. 1992,  Girona FC (ESP)
+
+  8,  Sergio Peña,                       MF,     38/4  , b. 1995,  Malmö FF (SWE)
+ 10,  Christian Cueva,                   MF,     98/16 , b. 1991,  Free agent 
+ 13,  Jesús Castillo,                    MF,      9/1  , b. 2001,  Gil Vicente F.C. (POR)
+ 16,  Wilder Cartagena,                  MF,     33/0  , b. 1994,  Orlando City SC (USA)
+ 23,  Piero Quispe,                      MF,      6/1  , b. 2001,  Club Universidad Nacional (MEX)
+
+  7,  Andy Polo,                         FW,     45/1  , b. 1994,  Club Universitario de Deportes (PER)
+  9,  Paolo Guerrero,                    FW,    119/39 , b. 1984,  Club Deportivo Universidad César Vallejo (PER)
+ 11,  Bryan Reyna,                       FW,     10/2  , b. 1998,  Club Atlético Belgrano (ARG)
+ 14,  Gianluca Lapadula,                 FW,     33/9  , b. 1990,  Cagliari Calcio (ITA)
+ 18,  André Carrillo,                    FW,     99/11 , b. 1991,  Al Qadsiah FC (KSA)
+ 20,  Edison Flores,                     FW,     73/16 , b. 1994,  Club Universitario de Deportes (PER)
+ 24,  José Rivera,                       FW,      3/0  , b. 1997,  Club Universitario de Deportes (PER)
+ 25,  Joao Grimaldo,                     FW,      7/1  , b. 2003,  Sporting Cristal (PER)
+ 26,  Franco Zanelatto,                  FW,      4/0  , b. 2000,  Club Alianza Lima (PER)
+

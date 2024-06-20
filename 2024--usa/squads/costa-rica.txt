@@ -1,0 +1,34 @@
+====================================
+=  Costa Rica - Copa América 2024
+
+
+  1,  Kevin Chamorro,                    GK,     11/0  , b. 2000,  Deportivo Saprissa (CRC)
+ 18,  Aarón Cruz,                        GK,      4/0  , b. 1991,  C.S. Herediano (CRC)
+ 23,  Patrick Sequeira,                  GK,      5/0  , b. 1999,  UD Ibiza (ESP)
+
+  2,  Gerald Taylor,                     DF,      5/1  , b. 2001,  Deportivo Saprissa (CRC)
+  3,  Jeyland Mitchell,                  DF,      4/0  , b. 2004,  Liga Deportiva Alajuelense (CRC)
+  4,  Juan Pablo Vargas,                 DF,     22/3  , b. 1995,  Millonarios F.C. (COL)
+  5,  Fernán Faerrón,                    DF,      2/0  , b. 2000,  C.S. Herediano (CRC)
+  6,  Julio Cascante,                    DF,      8/1  , b. 1993,  Austin FC (USA)
+  8,  Joseph Mora,                       DF,      9/0  , b. 1993,  Deportivo Saprissa (CRC)
+ 15,  Francisco Calvo,                   DF,     93/11 , b. 1992,  FC Juárez (MEX)
+ 22,  Haxzel Quirós,                     DF,      7/0  , b. 1998,  C.S. Herediano (CRC)
+ 25,  Yeison Molina,                     DF,      1/0  , b. 1996,  A.D. Guanacasteca (CRC)
+ 26,  Douglas Sequeira,                  DF,      0/0  , b. 2003,  Deportivo Saprissa (CRC)
+
+ 10,  Brandon Aguilera,                  MF,     16/0  , b. 2003,  Nottingham Forest F.C. (ENG)
+ 11,  Ariel Lassiter,                    MF,     21/1  , b. 1994,  CF Montréal (CAN)
+ 13,  Jefferson Brenes,                  MF,     12/1  , b. 1997,  Deportivo Saprissa (CRC)
+ 14,  Orlando Galo,                      MF,     16/3  , b. 2000,  C.S. Herediano (CRC)
+ 16,  Alejandro Bran,                    MF,      6/0  , b. 2001,  Minnesota United FC (USA)
+ 20,  Josimar Alcócer,                   MF,     11/1  , b. 2004,  K.V.C. Westerlo (BEL)
+
+  7,  Anthony Contreras,                 FW,     27/4  , b. 2000,  Pafos FC (CYP)
+  9,  Manfred Ugalde,                    FW,     10/3  , b. 2002,  FC Spartak Moscow (RUS)
+ 12,  Joel Campbell,                     FW,    139/27 , b. 1992,  Liga Deportiva Alajuelense (CRC)
+ 17,  Warren Madrigal,                   FW,     12/1  , b. 2004,  Deportivo Saprissa (CRC)
+ 19,  Kenneth Vargas,                    FW,      6/0  , b. 2002,  Heart of Midlothian F.C. (SCO)
+ 21,  Álvaro Zamora,                     FW,     11/1  , b. 2002,  Aris Thessaloniki F.C. (GRE)
+ 24,  Andy Rojas,                        FW,      1/1  , b. 2005,  C.S. Herediano (CRC)
+

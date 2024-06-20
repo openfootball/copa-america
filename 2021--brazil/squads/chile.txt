@@ -1,0 +1,37 @@
+====================================
+=  Chile - Copa América 2021
+
+
+  1,  Claudio Bravo,                     GK,    128/0  , b. 1983,  Real Betis (ESP)
+ 12,  Gabriel Arias,                     GK,     13/0  , b. 1987,  Racing Club de Avellaneda (ARG)
+ 23,  Gabriel Castellón,                 GK,      0/0  , b. 1993,  C.D. Huachipato (CHI)
+
+  2,  Eugenio Mena,                      DF,     58/3  , b. 1988,  Racing Club de Avellaneda (ARG)
+  3,  Guillermo Maripán,                 DF,     28/2  , b. 1994,  AS Monaco FC (MCO)
+  4,  Mauricio Isla,                     DF,    120/4  , b. 1988,  CR Flamengo (BRA)
+  5,  Enzo Roco,                         DF,     25/1  , b. 1992,  Fatih Karagümrük S.K. (TUR)
+  6,  Francisco Sierralta,               DF,      5/0  , b. 1997,  Watford F.C. (ENG)
+ 15,  Daniel González,                   DF,      1/0  , b. 2002,  Santiago Wanderers (CHI)
+ 17,  Gary Medel,                        DF,    129/7  , b. 1987,  Bologna F.C. 1909 (ITA)
+ 18,  Sebastián Vegas,                   DF,     12/1  , b. 1996,  C.F. Monterrey (MEX)
+
+  7,  César Pinares,                     MF,     15/1  , b. 1991,  Grêmio Foot-Ball Porto Alegrense (BRA)
+  8,  Arturo Vidal,                      MF,    119/32 , b. 1987,  Inter Milan (ITA)
+ 13,  Erick Pulgar,                      MF,     28/2  , b. 1994,  ACF Fiorentina (ITA)
+ 14,  Pablo Galdames,                    MF,      4/0  , b. 1996,  Club Atlético Vélez Sarsfield (ARG)
+ 19,  Tomás Alarcón,                     MF,      3/0  , b. 1999,  O'Higgins F.C. (CHI)
+ 20,  Charles Aránguiz,                  MF,     82/7  , b. 1989,  Bayer 04 Leverkusen (GER)
+ 25,  Marcelino Núñez,                   MF,      0/0  , b. 2000,  Club Deportivo Universidad Católica (CHI)
+ 27,  Pablo Aránguiz,                    MF,      0/0  , b. 1997,  Club Universidad de Chile (CHI)
+ 28,  Claudio Baeza,                     MF,      8/0  , b. 1993,  Deportivo Toluca F.C. (MEX)
+
+  3,  Diego Valencia,                    FW,      0/0  , b. 2000,  Club Deportivo Universidad Católica (CHI)
+  9,  Jean Meneses,                      FW,      7/2  , b. 1993,  Club León (MEX)
+ 10,  Alexis Sánchez,                    FW,    138/46 , b. 1988,  Inter Milan (ITA)
+ 11,  Eduardo Vargas,                    FW,     95/38 , b. 1989,  Clube Atlético Mineiro (BRA)
+ 16,  Felipe Mora,                       FW,      8/1  , b. 1993,  Portland Timbers (USA)
+ 21,  Carlos Palacios,                   FW,      3/0  , b. 2000,  Sport Club Internacional (BRA)
+ 22,  Ben Brereton,                      FW,      0/0  , b. 1999,  Blackburn Rovers F.C. (ENG)
+ 24,  Luciano Arriagada,                 FW,      0/0  , b. 2002,  Colo-Colo (CHI)
+ 26,  Clemente Montes,                   FW,      1/0  , b. 2001,  Club Deportivo Universidad Católica (CHI)
+

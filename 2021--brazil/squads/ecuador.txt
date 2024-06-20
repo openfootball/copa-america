@@ -1,0 +1,37 @@
+====================================
+=  Ecuador - Copa América 2021
+
+
+  1,  Hernán Galíndez,                   GK,      0/0  , b. 1987,  C.D. Universidad Católica del Ecuador (ECU)
+ 12,  Pedro Ortíz,                       GK,      2/0  , b. 1990,  C.S. Emelec (ECU)
+ 22,  Alexander Domínguez,               GK,     59/0  , b. 1987,  Club Atlético Vélez Sarsfield (ARG)
+
+  2,  Félix Torres,                      DF,      4/0  , b. 1997,  Santos Laguna (MEX)
+  3,  Piero Hincapié,                    DF,      0/0  , b. 2002,  Talleres de Córdoba (ARG)
+  4,  Robert Arboleda,                   DF,     22/2  , b. 1991,  São Paulo FC (BRA)
+  7,  Pervis Estupiñán,                  DF,      7/1  , b. 1998,  Villarreal CF (ESP)
+ 14,  Xavier Arreaga,                    DF,     12/1  , b. 1994,  Seattle Sounders FC (USA)
+ 16,  Mario Pineida,                     DF,      9/0  , b. 1992,  Barcelona S.C. (ECU)
+ 17,  Ángelo Preciado,                   DF,      8/0  , b. 1998,  K.R.C. Genk (BEL)
+ 24,  Fernando León,                     DF,      3/0  , b. 1993,  Barcelona S.C. (ECU)
+ 27,  Diego Palacios,                    DF,      6/0  , b. 1999,  Los Angeles FC (USA)
+ 28,  José Hurtado,                      DF,      0/0  , b. 2001,  C.S.D. Independiente del Valle (ECU)
+
+  5,  Dixon Arroyo,                      MF,      1/0  , b. 1992,  C.S. Emelec (ECU)
+  6,  Christian Noboa,                   MF,     78/4  , b. 1985,  PFC Sochi (RUS)
+  8,  Fidel Martínez,                    MF,     33/8  , b. 1990,  Club Tijuana (MEX)
+ 10,  Damián Díaz,                       MF,      2/0  , b. 1986,  Barcelona S.C. (ECU)
+ 10,  Carlos Gruezo,                     MF,     29/1  , b. 1995,  FC Augsburg (GER)
+ 18,  Ayrton Preciado,                   MF,     17/1  , b. 1994,  Santos Laguna (MEX)
+ 19,  Gonzalo Plata,                     MF,     10/4  , b. 2000,  Sporting CP (POR)
+ 20,  Sebas Méndez,                      MF,     18/0  , b. 1997,  Orlando City SC (USA)
+ 21,  Alan Franco,                       MF,      9/1  , b. 1998,  Clube Atlético Mineiro (BRA)
+ 23,  Moisés Caicedo,                    MF,      5/1  , b. 2001,  Brighton & Hove Albion F.C. (ENG)
+ 25,  José Carabalí,                     MF,      2/0  , b. 1997,  C.D. Universidad Católica del Ecuador (ECU)
+
+  9,  Leonardo Campana,                  FW,      6/0  , b. 2000,  F.C. Famalicão (POR)
+ 11,  Michael Estrada,                   FW,     15/4  , b. 1996,  Deportivo Toluca F.C. (MEX)
+ 13,  Enner Valencia,                    FW,     57/31 , b. 1989,  Fenerbahçe S.K. (TUR)
+ 15,  Ángel Mena,                        FW,     27/6  , b. 1988,  Club León (MEX)
+ 26,  Jordy Caicedo,                     FW,      2/0  , b. 1997,  PFC CSKA Sofia (BUL)
+

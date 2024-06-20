@@ -1,0 +1,32 @@
+====================================
+=  Brazil - Copa América 2021
+
+
+ 12,  Weverton,                          GK,      4/0  , b. 1987,  Sociedade Esportiva Palmeiras (BRA)
+ 23,  Ederson,                           GK,     12/0  , b. 1993,  Manchester City F.C. (ENG)
+
+  2,  Danilo,                            DF,     31/1  , b. 1991,  Juventus FC (ITA)
+  3,  Thiago Silva,                      DF,     93/7  , b. 1984,  Chelsea F.C. (ENG)
+  4,  Marquinhos,                        DF,     53/2  , b. 1994,  Paris Saint-Germain F.C. (FRA)
+  6,  Alex Sandro,                       DF,     25/1  , b. 1991,  Juventus FC (ITA)
+ 13,  Emerson Royal,                     DF,      1/0  , b. 1999,  Real Betis (ESP)
+ 14,  Éder Militão,                      DF,     10/0  , b. 1998,  Real Madrid CF (ESP)
+ 16,  Renan Lodi,                        DF,      8/0  , b. 1998,  Atlético Madrid (ESP)
+ 22,  Léo Ortiz,                         DF,      0/0  , b. 1996,  Red Bull Bragantino (BRA)
+ 22,  Felipe,                            DF,      2/0  , b. 1989,  Atlético Madrid (ESP)
+
+  5,  Casemiro,                          MF,     50/3  , b. 1992,  Real Madrid CF (ESP)
+  8,  Fred,                              MF,     13/0  , b. 1993,  Manchester United F.C. (ENG)
+ 11,  Éverton Ribeiro,                   MF,     10/0  , b. 1989,  CR Flamengo (BRA)
+ 15,  Fabinho,                           MF,     13/0  , b. 1993,  Liverpool F.C. (ENG)
+ 17,  Lucas Paquetá,                     MF,     15/3  , b. 1997,  Olympique Lyonnais (FRA)
+ 25,  Douglas Luiz,                      MF,      6/0  , b. 1998,  Aston Villa F.C. (ENG)
+
+  7,  Richarlison,                       FW,     25/9  , b. 1997,  Everton F.C. (ENG)
+  9,  Gabriel Jesus,                     FW,     43/18 , b. 1997,  Manchester City F.C. (ENG)
+ 10,  Neymar,                            FW,    105/66 , b. 1992,  Paris Saint-Germain F.C. (FRA)
+ 18,  Vinícius Júnior,                   FW,      1/0  , b. 2000,  Real Madrid CF (ESP)
+ 19,  Everton,                           FW,     19/3  , b. 1996,  S.L. Benfica (POR)
+ 20,  Roberto Firmino,                   FW,     50/16 , b. 1991,  Liverpool F.C. (ENG)
+ 21,  Gabriel Barbosa,                   FW,      7/2  , b. 1996,  CR Flamengo (BRA)
+

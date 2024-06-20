@@ -1,0 +1,34 @@
+====================================
+=  Uruguay - Copa América 2021
+
+
+  1,  Fernando Muslera,                  GK,    118/0  , b. 1986,  Galatasaray S.K. (TUR)
+ 12,  Martín Campaña,                    GK,      9/0  , b. 1989,  Al Batin FC (KSA)
+ 23,  Sergio Rochet,                     GK,      0/0  , b. 1993,  Club Nacional de Football (URU)
+
+  2,  José Giménez,                      DF,     62/8  , b. 1995,  Atlético Madrid (ESP)
+  3,  Diego Godín,                       DF,    141/8  , b. 1986,  Cagliari Calcio (ITA)
+  4,  Ronald Araújo,                     DF,      1/0  , b. 1999,  FC Barcelona (ESP)
+ 11,  Camilo Cándido,                    DF,      0/0  , b. 1995,  Club Nacional de Football (URU)
+ 13,  Giovanni González,                 DF,     10/0  , b. 1994,  Peñarol (URU)
+ 17,  Matías Viña,                       DF,     11/0  , b. 1997,  Sociedade Esportiva Palmeiras (BRA)
+ 19,  Sebastián Coates,                  DF,     40/1  , b. 1990,  Sporting CP (POR)
+ 22,  Martín Cáceres,                    DF,    104/4  , b. 1987,  ACF Fiorentina (ITA)
+
+  5,  Matías Vecino,                     MF,     43/3  , b. 1991,  Inter Milan (ITA)
+  6,  Rodrigo Bentancur,                 MF,     34/0  , b. 1997,  Juventus FC (ITA)
+  7,  Nicolás de la Cruz,                MF,      5/0  , b. 1997,  Club Atlético River Plate (ARG)
+  8,  Nahitan Nández,                    MF,     36/0  , b. 1995,  Cagliari Calcio (ITA)
+ 10,  Giorgian de Arrascaeta,            MF,     26/3  , b. 1994,  CR Flamengo (BRA)
+ 14,  Lucas Torreira,                    MF,     28/0  , b. 1996,  Atlético Madrid (ESP)
+ 15,  Federico Valverde,                 MF,     24/2  , b. 1998,  Real Madrid CF (ESP)
+ 16,  Brian Rodríguez,                   MF,     10/3  , b. 2000,  UD Almería (ESP)
+ 24,  Fernando Gorriarán,                MF,      1/0  , b. 1994,  Santos Laguna (MEX)
+
+  9,  Luis Suárez,                       FW,    118/63 , b. 1987,  Atlético Madrid (ESP)
+ 18,  Maxi Gómez,                        FW,     19/3  , b. 1996,  Valencia CF (ESP)
+ 20,  Jonathan Rodríguez,                FW,     26/3  , b. 1993,  Cruz Azul (MEX)
+ 21,  Edinson Cavani,                    FW,    118/51 , b. 1987,  Manchester United F.C. (ENG)
+ 25,  Facundo Torres,                    FW,      2/0  , b. 2000,  Peñarol (URU)
+ 26,  Brian Ocampo,                      FW,      0/0  , b. 1999,  Club Nacional de Football (URU)
+

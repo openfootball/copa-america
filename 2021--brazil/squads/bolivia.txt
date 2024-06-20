@@ -1,0 +1,35 @@
+====================================
+=  Bolivia - Copa América 2021
+
+
+  1,  Carlos Lampe,                      GK,     36/0  , b. 1987,  Club Always Ready (BOL)
+ 12,  Rubén Cordano,                     GK,      1/0  , b. 1998,  Club Bolívar (BOL)
+ 23,  Javier Rojas,                      GK,      1/0  , b. 1996,  Club Bolívar (BOL)
+
+  2,  Jairo Quinteros,                   DF,      1/0  , b. 2001,  Club Bolívar (BOL)
+  3,  José Sagredo,                      DF,     25/0  , b. 1994,  The Strongest (BOL)
+  4,  Luis Haquin,                       DF,     18/1  , b. 1997,  Deportes Melipilla (CHL)
+  5,  Adrián Jusino,                     DF,     13/0  , b. 1992,  Athlitiki Enosi Larissa F.C. (GRE)
+  8,  Diego Bejarano,                    DF,     30/3  , b. 1991,  Club Bolívar (BOL)
+ 19,  Enrique Flores,                    DF,     13/0  , b. 1994,  Club Always Ready (BOL)
+ 26,  Luis René Barboza,                 DF,      0/0  , b. 1993,  Club Aurora (BOL)
+ 27,  Óscar Ribera,                      DF,     13/0  , b. 1992,  Club Blooming (BOL)
+
+  6,  Leonel Justiniano,                 MF,     30/1  , b. 1992,  Club Bolívar (BOL)
+  7,  Juan Carlos Arce,                  MF,     76/12 , b. 1985,  Club Always Ready (BOL)
+ 13,  Diego Wayar,                       MF,     22/0  , b. 1993,  The Strongest (BOL)
+ 14,  Moisés Villarroel,                 MF,      2/0  , b. 1998,  C.D. Jorge Wilstermann (BOL)
+ 15,  Boris Céspedes,                    MF,      4/1  , b. 1995,  Servette FC (SWI)
+ 16,  Erwin Saavedra,                    MF,     25/2  , b. 1996,  Club Bolívar (BOL)
+ 17,  Roberto Fernández,                 MF,      7/0  , b. 1999,  Club Bolívar (BOL)
+ 20,  Ramiro Vaca,                       MF,      8/1  , b. 1999,  The Strongest (BOL)
+ 21,  Erwin Sánchez,                     MF,      5/0  , b. 1992,  Club Blooming (BOL)
+ 22,  Danny Bejarano,                    MF,     27/0  , b. 1994,  PAS Lamia 1964 (GRE)
+
+  9,  Marcelo Moreno,                    FW,     83/25 , b. 1987,  Cruzeiro Esporte Clube (BRA)
+ 10,  Henry Vaca,                        FW,      9/0  , b. 1998,  Oriente Petrolero (BOL)
+ 11,  Rodrigo Ramallo,                   FW,     20/3  , b. 1990,  Club Always Ready (BOL)
+ 18,  Gilbert Álvarez,                   FW,     28/5  , b. 1992,  C.D. Jorge Wilstermann (BOL)
+ 24,  Jaume Cuéllar,                     FW,      0/0  , b. 2001,  S.P.A.L. (ITA)
+ 25,  Jeyson Chura,                      FW,      0/0  , b. 2002,  The Strongest (BOL)
+

@@ -1,0 +1,33 @@
+====================================
+=  Jamaica - Copa América 2024
+
+
+  1,  Shaquan Davis,                     GK,      0/0  , b. 2000,  Mount Pleasant Football Academy (JAM)
+ 13,  Coniah Boyce-Clarke,               GK,      1/0  , b. 2003,  Reading F.C. (ENG)
+ 23,  Jahmali Waite,                     GK,     10/0  , b. 1998,  El Paso Locomotive FC (USA)
+ 24,  Andre Blake,                       GK,     72/0  , b. 1990,  Philadelphia Union (USA)
+
+  2,  Dexter Lembikisa,                  DF,     17/1  , b. 2003,  Heart of Midlothian F.C. (SCO)
+  3,  Michael Hector,                    DF,     40/0  , b. 1992,  Charlton Athletic F.C. (ENG)
+  4,  Richard King,                      DF,     17/0  , b. 2001,  Cavalier F.C. (JAM)
+  5,  Ethan Pinnock,                     DF,     10/0  , b. 1993,  Brentford F.C. (ENG)
+  6,  Di'Shon Bernard,                   DF,     15/1  , b. 2000,  Sheffield Wednesday F.C. (ENG)
+ 12,  Wes Harding,                       DF,      2/0  , b. 1996,  Millwall F.C. (ENG)
+ 17,  Damion Lowe,                       DF,     61/3  , b. 1993,  Philadelphia Union (USA)
+ 21,  Jon Bell,                          DF,      1/0  , b. 1997,  Seattle Sounders FC (USA)
+ 22,  Greg Leigh,                        DF,     16/1  , b. 1994,  Oxford United F.C. (ENG)
+ 25,  Amari'i Bell,                      DF,     16/1  , b. 1994,  Luton Town F.C. (ENG)
+
+ 10,  Bobby Decordova-Reid,              MF,     31/6  , b. 1993,  Fulham F.C. (ENG)
+ 14,  Kasey Palmer,                      MF,      6/0  , b. 1996,  Coventry City F.C. (ENG)
+ 15,  Joel Latibeaudiere,                MF,     14/0  , b. 2000,  Coventry City F.C. (ENG)
+ 16,  Karoy Anderson,                    MF,      6/0  , b. 2004,  Charlton Athletic F.C. (ENG)
+ 18,  Alex Marshall,                     MF,     14/0  , b. 1998,  Portmore United F.C. (JAM)
+ 19,  Kevon Lambert,                     MF,     27/0  , b. 1997,  Real Salt Lake (USA)
+
+  7,  Demarai Gray,                      FW,     11/5  , b. 1996,  Al-Ettifaq FC (KSA)
+  8,  Kaheim Dixon,                      FW,      3/1  , b. 2004,  Arnett Gardens FC (JAM)
+  9,  Michail Antonio,                   FW,     15/3  , b. 1990,  West Ham United F.C. (ENG)
+ 11,  Shamar Nicholson,                  FW,     47/19 , b. 1997,  Clermont Foot (FRA)
+ 20,  Renaldo Cephas,                    FW,      5/0  , b. 1999,  MKE Ankaragücü (TUR)
+

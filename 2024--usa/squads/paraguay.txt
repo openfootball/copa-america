@@ -1,0 +1,34 @@
+====================================
+=  Paraguay - Copa América 2024
+
+
+  1,  Carlos Coronel,                    GK,      9/0  , b. 1996,  New York Red Bulls (USA)
+ 12,  Alfredo Aguilar,                   GK,      3/0  , b. 1988,  Sportivo Luqueño (PAR)
+ 22,  Rodrigo Morínigo,                  GK,      0/0  , b. 1998,  Club Libertad (PAR)
+
+  2,  Iván Ramírez,                      DF,      6/0  , b. 1994,  Club Libertad (PAR)
+  3,  Omar Alderete,                     DF,     17/0  , b. 1996,  Getafe CF (ESP)
+  4,  Matías Espinoza,                   DF,      4/0  , b. 1997,  Club Libertad (PAR)
+  5,  Fabián Balbuena,                   DF,     39/2  , b. 1991,  FC Dynamo Moscow (RUS)
+  6,  Júnior Alonso,                     DF,     54/2  , b. 1993,  FC Krasnodar (RUS)
+ 13,  Néstor Giménez,                    DF,      2/0  , b. 1997,  Club Libertad (PAR)
+ 15,  Gustavo Gómez,                     DF,     74/4  , b. 1993,  SE Palmeiras (BRA)
+ 25,  Gustavo Velázquez,                 DF,      2/1  , b. 1991,  Newell's Old Boys (ARG)
+
+  8,  Damián Bobadilla,                  MF,      1/0  , b. 2001,  São Paulo FC (BRA)
+ 10,  Miguel Almirón,                    MF,     55/7  , b. 1994,  Newcastle United F.C. (ENG)
+ 14,  Andrés Cubas,                      MF,     19/0  , b. 1996,  Vancouver Whitecaps FC (CAN)
+ 16,  Matías Rojas,                      MF,     19/1  , b. 1995,  Inter Miami CF (USA)
+ 17,  Alejandro Romero Gamarra,          MF,     20/5  , b. 1995,  Al Ain FC (UAE)
+ 20,  Richard Sánchez,                   MF,     34/1  , b. 1996,  Club América (MEX)
+ 21,  Fabrizio Peralta,                  MF,      1/0  , b. 2002,  Cruzeiro Esporte Clube (BRA)
+ 23,  Mathías Villasanti,                MF,     37/0  , b. 1997,  Grêmio FBPA (BRA)
+ 26,  Hernesto Caballero,                MF,      3/0  , b. 1991,  Club Libertad (PAR)
+
+  7,  Derlis González,                   FW,     51/9  , b. 1994,  Club Olimpia (PAR)
+  9,  Adam Bareiro,                      FW,      6/0  , b. 1996,  San Lorenzo de Almagro (ARG)
+ 11,  Ángel Romero,                      FW,     43/8  , b. 1992,  Sport Club Corinthians Paulista (BRA)
+ 18,  Alex Arce,                         FW,      3/0  , b. 1995,  L.D.U. Quito (ECU)
+ 19,  Julio Enciso,                      FW,     14/0  , b. 2004,  Brighton & Hove Albion F.C. (ENG)
+ 24,  Ramón Sosa,                        FW,     10/0  , b. 1999,  Talleres de Córdoba (ARG)
+

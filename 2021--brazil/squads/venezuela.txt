@@ -1,0 +1,38 @@
+====================================
+=  Venezuela - Copa América 2021
+
+
+  1,  Wuilker Faríñez,                   GK,     26/0  , b. 1998,  RC Lens (FRA)
+ 12,  Joel Graterol,                     GK,      2/0  , b. 1997,  América de Cali (COL)
+ 22,  Luis Romero,                       GK,      0/0  , b. 1990,  Portuguesa F.C. (VEN)
+
+  2,  Nahuel Ferraresi,                  DF,      4/0  , b. 1998,  Moreirense F.C. (POR)
+  3,  Mikel Villanueva,                  DF,     27/2  , b. 1993,  C.D. Santa Clara (PRT)
+  4,  José Manuel Velázquez,             DF,     25/3  , b. 1990,  F.C. Arouca (POR)
+  4,  Jhon Chancellor,                   DF,     20/1  , b. 1992,  Brescia Calcio (ITA)
+  8,  Francisco La Mantía,               DF,      1/0  , b. 1996,  Deportivo La Guaira F.C. (VEN)
+ 14,  Luis Mago,                         DF,     12/2  , b. 1994,  Club Universidad de Chile (CHI)
+ 16,  Roberto Rosales,                   DF,     86/1  , b. 1988,  CD Leganés (ESP)
+ 20,  Ronald Hernández,                  DF,     17/0  , b. 1997,  Atlanta United FC (USA)
+ 21,  Alexander González,                DF,     50/1  , b. 1992,  Málaga CF (ESP)
+ 27,  Yohán Cumana,                      DF,      0/0  , b. 1996,  Deportivo La Guaira F.C. (VEN)
+ 28,  Adrián Martínez,                   DF,      0/0  , b. 1993,  Deportivo La Guaira F.C. (VEN)
+
+  5,  Júnior Moreno,                     MF,     24/1  , b. 1993,  D.C. United (USA)
+  6,  Yangel Herrera,                    MF,     21/2  , b. 1998,  Granada CF (ESP)
+  7,  Jefferson Savarino,                MF,     18/1  , b. 1996,  Clube Atlético Mineiro (BRA)
+ 10,  Yeferson Soteldo,                  MF,     18/1  , b. 1997,  Toronto FC (CAN)
+ 13,  José Andrés Martínez,              MF,      1/0  , b. 1994,  Philadelphia Union (USA)
+ 15,  Jhon Murillo,                      MF,     31/4  , b. 1995,  C.D. Tondela (POR)
+ 18,  Rómulo Otero,                      MF,     39/6  , b. 1992,  Sport Club Corinthians Paulista (BRA)
+ 23,  Cristian Cásseres Jr.,             MF,      6/0  , b. 2000,  New York Red Bulls (USA)
+ 24,  Bernaldo Manzano,                  MF,      3/0  , b. 1990,  Asociación Civil Deportivo Lara (VEN)
+ 25,  Richard Celis,                     MF,      1/0  , b. 1996,  Caracas F.C. (VEN)
+ 26,  Edson Castillo,                    MF,      0/0  , b. 1994,  Caracas F.C. (VEN)
+
+  9,  Fernando Aristeguieta,             FW,     21/1  , b. 1992,  Mazatlán F.C. (MEX)
+ 11,  Sergio Córdova,                    FW,     10/0  , b. 1997,  Arminia Bielefeld (GER)
+ 15,  Jan Carlos Hurtado,                FW,      3/0  , b. 2000,  Red Bull Bragantino (BRA)
+ 17,  Josef Martínez,                    FW,     53/11 , b. 1993,  Atlanta United FC (USA)
+ 19,  Jhonder Cádiz,                     FW,      4/0  , b. 1995,  Nashville SC (USA)
+

@@ -1,0 +1,36 @@
+====================================
+=  Argentina - Copa América 2021
+
+
+  1,  Franco Armani,                     GK,     15/0  , b. 1986,  Club Atlético River Plate (ARG)
+ 12,  Agustín Marchesín,                 GK,      8/0  , b. 1988,  FC Porto (POR)
+ 23,  Emiliano Martínez,                 GK,      2/0  , b. 1992,  Aston Villa F.C. (ENG)
+ 28,  Juan Musso,                        GK,      1/0  , b. 1994,  Udinese Calcio (ITA)
+
+  2,  Lucas Martínez Quarta,             DF,      6/0  , b. 1996,  ACF Fiorentina (ITA)
+  3,  Nicolás Tagliafico,                DF,     29/0  , b. 1992,  AFC Ajax (NED)
+  4,  Gonzalo Montiel,                   DF,      7/0  , b. 1997,  Club Atlético River Plate (ARG)
+  6,  Germán Pezzella,                   DF,     17/2  , b. 1991,  ACF Fiorentina (ITA)
+  8,  Marcos Acuña,                      DF,     29/0  , b. 1991,  Sevilla FC (ESP)
+ 13,  Cristian Romero,                   DF,      2/1  , b. 1998,  Atalanta B.C. (ITA)
+ 19,  Nicolás Otamendi,                  DF,     75/4  , b. 1988,  S.L. Benfica (POR)
+ 25,  Lisandro Martínez,                 DF,      2/0  , b. 1998,  AFC Ajax (NED)
+ 26,  Nahuel Molina,                     DF,      1/0  , b. 1998,  Udinese Calcio (ITA)
+
+  5,  Leandro Paredes,                   MF,     30/4  , b. 1994,  Paris Saint-Germain F.C. (FRA)
+  7,  Rodrigo De Paul,                   MF,     23/0  , b. 1994,  Udinese Calcio (ITA)
+ 11,  Ángel Di María,                    MF,    105/20 , b. 1988,  Paris Saint-Germain F.C. (FRA)
+ 14,  Exequiel Palacios,                 MF,      8/0  , b. 1998,  Bayer 04 Leverkusen (GER)
+ 17,  Nicolás Domínguez,                 MF,      8/1  , b. 1998,  Bologna F.C. 1909 (ITA)
+ 18,  Guido Rodríguez,                   MF,     10/0  , b. 1994,  Real Betis (ESP)
+ 20,  Giovani Lo Celso,                  MF,     24/2  , b. 1996,  Tottenham Hotspur F.C. (ENG)
+ 24,  Alejandro "Papu" Gómez,            MF,      5/1  , b. 1988,  Sevilla FC (ESP)
+
+  9,  Sergio Agüero,                     FW,     97/41 , b. 1988,  Manchester City F.C. (ENG)
+ 10,  Lionel Messi,                      FW,    144/72 , b. 1987,  FC Barcelona (ESP)
+ 15,  Nicolás González,                  FW,      6/2  , b. 1998,  VfB Stuttgart (GER)
+ 16,  Joaquín Correa,                    FW,      5/2  , b. 1994,  S.S. Lazio (ITA)
+ 21,  Ángel Correa,                      FW,     13/2  , b. 1995,  Atlético Madrid (ESP)
+ 22,  Lautaro Martínez,                  FW,     23/11 , b. 1997,  Inter Milan (ITA)
+ 27,  Julián Álvarez,                    FW,      1/0  , b. 2000,  Club Atlético River Plate (ARG)
+

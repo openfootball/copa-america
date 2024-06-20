@@ -1,0 +1,36 @@
+====================================
+=  Paraguay - Copa América 2021
+
+
+  1,  Antony Silva,                      GK,     34/0  , b. 1984,  Club Puebla (MEX)
+ 12,  Alfredo Aguilar,                   GK,      2/0  , b. 1988,  Club Olimpia (PAR)
+ 22,  Gerardo Ortiz,                     GK,      0/0  , b. 1989,  Once Caldas (COL)
+
+  2,  Robert Rojas,                      DF,      7/1  , b. 1996,  Club Atlético River Plate (ARG)
+  3,  Omar Alderete,                     DF,      5/0  , b. 1996,  Hertha BSC (GER)
+  4,  Fabián Balbuena,                   DF,     18/0  , b. 1991,  West Ham United F.C. (ENG)
+  6,  Júnior Alonso,                     DF,     33/1  , b. 1993,  Clube Atlético Mineiro (BRA)
+ 13,  Alberto Espínola,                  DF,      4/0  , b. 1991,  Cerro Porteño (PAR)
+ 15,  Gustavo Gómez,                     DF,     47/3  , b. 1993,  Sociedade Esportiva Palmeiras (BRA)
+ 19,  Santiago Arzamendia,               DF,     10/0  , b. 1998,  Cerro Porteño (PAR)
+ 24,  David Martínez,                    DF,      0/0  , b. 1998,  Club Atlético River Plate (ARG)
+
+  5,  Gastón Giménez,                    MF,      6/1  , b. 1991,  Chicago Fire FC (USA)
+  8,  Richard Sánchez,                   MF,     15/1  , b. 1996,  Club América (MEX)
+ 10,  Miguel Almirón,                    MF,     31/2  , b. 1994,  Newcastle United F.C. (ENG)
+ 14,  Andrés Cubas,                      MF,      3/0  , b. 1996,  Nîmes Olympique (FRA)
+ 16,  Ángel Cardozo Lucena,              MF,      6/0  , b. 1994,  Cerro Porteño (PAR)
+ 17,  Kaku,                              MF,      6/3  , b. 1995,  Al Taawoun FC (KSA)
+ 21,  Óscar Romero,                      MF,     48/4  , b. 1992,  San Lorenzo de Almagro (ARG)
+ 23,  Mathías Villasanti,                MF,     10/0  , b. 1997,  Cerro Porteño (PAR)
+ 25,  Braian Ojeda,                      MF,      0/0  , b. 2000,  Club Olimpia (PAR)
+ 26,  Robert Piris Da Motta,             MF,      6/0  , b. 1994,  CR Flamengo (BRA)
+ 27,  Jorge Morel,                       MF,      4/0  , b. 1998,  Club Guaraní (PAR)
+
+  7,  Carlos González,                   FW,      1/0  , b. 1993,  Tigres UANL (MEX)
+  9,  Gabriel Ávalos,                    FW,      2/0  , b. 1990,  Argentinos Juniors (ARG)
+ 11,  Ángel Romero,                      FW,     26/6  , b. 1992,  San Lorenzo de Almagro (ARG)
+ 18,  Braian Samudio,                    FW,      5/0  , b. 1995,  Çaykur Rizespor (TUR)
+ 20,  Antonio Bareiro,                   FW,      6/1  , b. 1989,  Club Libertad (PAR)
+ 28,  Julio Enciso,                      FW,      0/0  , b. 2004,  Club Libertad (PAR)
+

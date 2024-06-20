@@ -1,0 +1,34 @@
+====================================
+=  Mexico - Copa América 2024
+
+
+  1,  Julio González,                    GK,      2/0  , b. 1991,  Club Universidad Nacional (MEX)
+ 12,  Carlos Acevedo,                    GK,      6/0  , b. 1996,  Santos Laguna (MEX)
+ 23,  Raúl Rangel,                       GK,      1/0  , b. 2000,  C.D. Guadalajara (MEX)
+
+  2,  Jorge Sánchez,                     DF,     41/1  , b. 1997,  FC Porto (POR)
+  3,  César Montes,                      DF,     44/1  , b. 1997,  UD Almería (ESP)
+  5,  Johan Vásquez,                     DF,     23/1  , b. 1998,  Genoa CFC (ITA)
+  6,  Gerardo Arteaga,                   DF,     24/1  , b. 1998,  C.F. Monterrey (MEX)
+ 13,  Jesús Orozco,                      DF,      3/0  , b. 2002,  C.D. Guadalajara (MEX)
+ 19,  Israel Reyes,                      DF,     15/2  , b. 2000,  Club América (MEX)
+ 20,  Brian García,                      DF,      2/0  , b. 1997,  Deportivo Toluca F.C. (MEX)
+ 26,  Bryan González,                    DF,      1/0  , b. 2003,  C.F. Pachuca (MEX)
+
+  4,  Edson Álvarez,                     MF,     78/5  , b. 1997,  West Ham United F.C. (ENG)
+  7,  Luis Romo,                         MF,     46/3  , b. 1995,  C.F. Monterrey (MEX)
+  8,  Carlos Rodríguez,                  MF,     50/0  , b. 1997,  Cruz Azul (MEX)
+ 14,  Érick Sánchez,                     MF,     27/3  , b. 1999,  C.F. Pachuca (MEX)
+ 16,  Jordi Cortizo,                     MF,      4/0  , b. 1996,  C.F. Monterrey (MEX)
+ 17,  Orbelín Pineda,                    MF,     70/10 , b. 1996,  AEK Athens F.C. (GRE)
+ 24,  Luis Chávez,                       MF,     31/4  , b. 1996,  FC Dynamo Moscow (RUS)
+ 25,  Roberto Alvarado,                  MF,     44/5  , b. 1998,  C.D. Guadalajara (MEX)
+
+  9,  Julián Quiñones,                   FW,      5/2  , b. 1997,  Club América (MEX)
+ 10,  Alexis Vega,                       FW,     29/6  , b. 1997,  Deportivo Toluca F.C. (MEX)
+ 11,  Santiago Giménez,                  FW,     27/4  , b. 2001,  Feyenoord (NED)
+ 15,  Uriel Antuna,                      FW,     61/13 , b. 1997,  Cruz Azul (MEX)
+ 18,  Marcelo Flores,                    FW,      3/0  , b. 2003,  Tigres UANL (MEX)
+ 21,  César Huerta,                      FW,      8/1  , b. 2000,  Club Universidad Nacional (MEX)
+ 22,  Guillermo Martínez,                FW,      3/2  , b. 1995,  Club Universidad Nacional (MEX)
+

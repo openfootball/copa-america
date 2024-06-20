@@ -1,0 +1,34 @@
+====================================
+=  Chile - Copa América 2024
+
+
+  1,  Claudio Bravo,                     GK,    148/0  , b. 1983,  Real Betis (ESP)
+ 12,  Gabriel Arias,                     GK,     16/0  , b. 1987,  Racing Club de Avellaneda (ARG)
+ 23,  Brayan Cortés,                     GK,     16/0  , b. 1995,  Colo-Colo (CHI)
+
+  2,  Gabriel Suazo,                     DF,     25/0  , b. 1997,  Toulouse FC (FRA)
+  3,  Guillermo Maripán,                 DF,     47/2  , b. 1994,  AS Monaco FC (MCO)
+  4,  Mauricio Isla,                     DF,    139/5  , b. 1988,  Club Atlético Independiente (ARG)
+  5,  Paulo Díaz,                        DF,     46/1  , b. 1994,  Club Atlético River Plate (ARG)
+  6,  Thomas Galdames,                   DF,      0/0  , b. 1998,  Godoy Cruz Antonio Tomba (ARG)
+ 16,  Igor Lichnovsky,                   DF,     10/0  , b. 1994,  Club América (MEX)
+ 21,  Matías Catalán,                    DF,      7/0  , b. 1992,  Talleres de Córdoba (ARG)
+ 25,  Benjamín Kuscevic,                 DF,      8/0  , b. 1996,  Fortaleza Esporte Clube (BRA)
+ 26,  Nicolás Fernández,                 DF,      2/0  , b. 1999,  Audax Italiano (CHI)
+
+  7,  Marcelino Núñez,                   MF,     25/5  , b. 2000,  Norwich City F.C. (ENG)
+ 13,  Erick Pulgar,                      MF,     49/4  , b. 1994,  CR Flamengo (BRA)
+ 15,  Diego Valdés,                      MF,     31/2  , b. 1994,  Club América (MEX)
+ 17,  Esteban Pavez,                     MF,     13/0  , b. 1990,  Colo-Colo (CHI)
+ 18,  Rodrigo Echeverría,                MF,     11/1  , b. 1995,  Club Atlético Huracán (ARG)
+ 24,  César Pérez,                       MF,      3/0  , b. 2002,  Unión La Calera (CHI)
+
+  8,  Darío Osorio,                      FW,      8/1  , b. 2004,  FC Midtjylland (DEN)
+  9,  Víctor Dávila,                     FW,     11/3  , b. 1997,  PFC CSKA Moscow (RUS)
+ 10,  Alexis Sánchez,                    FW,    163/51 , b. 1988,  Inter Milan (ITA)
+ 11,  Eduardo Vargas,                    FW,    109/42 , b. 1989,  Clube Atlético Mineiro (BRA)
+ 14,  Cristián Zavala,                   FW,      3/0  , b. 1999,  Colo-Colo (CHI)
+ 19,  Marcos Bolados,                    FW,      7/2  , b. 1996,  Colo-Colo (CHI)
+ 20,  Maximiliano Guerrero,              FW,      1/0  , b. 2000,  Club Universidad de Chile (CHI)
+ 22,  Ben Brereton Díaz,                 FW,     30/7  , b. 1999,  Sheffield United F.C. (ENG)
+

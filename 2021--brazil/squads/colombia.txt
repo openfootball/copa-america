@@ -1,0 +1,36 @@
+====================================
+=  Colombia - Copa América 2021
+
+
+  1,  David Ospina,                      GK,    107/0  , b. 1988,  S.S.C. Napoli (ITA)
+ 12,  Camilo Vargas,                     GK,      9/0  , b. 1989,  Atlas F.C. (MEX)
+ 22,  Aldair Quintana,                   GK,      0/0  , b. 1994,  Atlético Nacional (COL)
+
+  2,  Stefan Medina,                     DF,     23/0  , b. 1992,  C.F. Monterrey (MEX)
+  3,  Óscar Murillo,                     DF,     17/0  , b. 1988,  C.F. Pachuca (MEX)
+  4,  Carlos Cuesta,                     DF,      0/0  , b. 1999,  K.R.C. Genk (BEL)
+  6,  William Tesillo,                   DF,     15/1  , b. 1990,  Club León (MEX)
+ 13,  Yerry Mina,                        DF,     28/7  , b. 1994,  Everton F.C. (ENG)
+ 16,  Daniel Muñoz,                      DF,      1/0  , b. 1996,  K.R.C. Genk (BEL)
+ 23,  Davinson Sánchez,                  DF,     34/0  , b. 1996,  Tottenham Hotspur F.C. (ENG)
+ 24,  Jhon Lucumí,                       DF,      4/0  , b. 1998,  K.R.C. Genk (BEL)
+ 26,  Frank Fabra,                       DF,     22/1  , b. 1991,  Boca Juniors (ARG)
+
+  5,  Wilmar Barrios,                    MF,     35/0  , b. 1993,  FC Zenit Saint Petersburg (RUS)
+  8,  Gustavo Cuéllar,                   MF,      9/1  , b. 1992,  Al Hilal SFC (KSA)
+ 10,  Edwin Cardona,                     MF,     41/5  , b. 1992,  Boca Juniors (ARG)
+ 11,  Juan Cuadrado,                     MF,     96/8  , b. 1988,  Juventus FC (ITA)
+ 15,  Mateus Uribe,                      MF,     30/4  , b. 1991,  FC Porto (POR)
+ 17,  Yairo Moreno,                      MF,      8/0  , b. 1995,  C.F. Pachuca (MEX)
+ 21,  Sebastián Pérez,                   MF,      8/1  , b. 1993,  Boavista F.C. (POR)
+ 25,  Baldomero Perlaza,                 MF,      0/0  , b. 1992,  Atlético Nacional (COL)
+ 27,  Jaminton Campaz,                   MF,      0/0  , b. 2000,  Deportes Tolima (COL)
+
+  7,  Duván Zapata,                      FW,     22/4  , b. 1991,  Atalanta B.C. (ITA)
+  9,  Luis Muriel,                       FW,     38/8  , b. 1991,  Atalanta B.C. (ITA)
+ 14,  Luis Díaz,                         FW,     18/2  , b. 1997,  FC Porto (POR)
+ 18,  Rafael Santos Borré,               FW,      3/0  , b. 1995,  Club Atlético River Plate (ARG)
+ 19,  Miguel Borja,                      FW,     12/4  , b. 1993,  Atlético Junior (COL)
+ 20,  Alfredo Morelos,                   FW,     10/1  , b. 1996,  Rangers F.C. (SCO)
+ 28,  Yimmi Chará,                       FW,     10/1  , b. 1991,  Portland Timbers (USA)
+

@@ -1,0 +1,34 @@
+====================================
+=  Ecuador - Copa América 2024
+
+
+  1,  Hernán Galíndez,                   GK,     19/0  , b. 1987,  Club Atlético Huracán (ARG)
+ 12,  Moisés Ramírez,                    GK,      6/0  , b. 2000,  Independiente del Valle (ECU)
+ 22,  Alexander Domínguez,               GK,     74/0  , b. 1987,  L.D.U. Quito (ECU)
+
+  2,  Félix Torres,                      DF,     33/5  , b. 1997,  Sport Club Corinthians Paulista (BRA)
+  3,  Piero Hincapié,                    DF,     33/2  , b. 2002,  Bayer 04 Leverkusen (GER)
+  4,  Joel Ordóñez,                      DF,      2/0  , b. 2004,  Club Brugge KV (BEL)
+  6,  Willian Pacho,                     DF,     12/2  , b. 2001,  Eintracht Frankfurt (GER)
+  7,  Layan Loor,                        DF,      1/0  , b. 2001,  C.D. Universidad Católica del Ecuador (ECU)
+ 17,  Ángelo Preciado,                   DF,     39/0  , b. 1998,  AC Sparta Prague (CZE)
+ 24,  José Hurtado,                      DF,      8/0  , b. 2001,  Red Bull Bragantino (BRA)
+ 25,  Jackson Porozo,                    DF,      8/0  , b. 2000,  Kasımpaşa S.K. (TUR)
+ 26,  Andrés Micolta,                    DF,      1/0  , b. 1999,  C.F. Pachuca (MEX)
+
+  5,  José Cifuentes,                    MF,     21/0  , b. 1999,  Cruzeiro Esporte Clube (BRA)
+  8,  Carlos Gruezo,                     MF,     59/1  , b. 1995,  San Jose Earthquakes (USA)
+  9,  John Yeboah,                       MF,      3/2  , b. 2000,  Raków Częstochowa (POL)
+ 10,  Kendry Páez,                       MF,      9/1  , b. 2007,  Independiente del Valle (ECU)
+ 14,  Alan Minda,                        MF,      4/0  , b. 2003,  Cercle Brugge K.S.V. (BEL)
+ 15,  Ángel Mena,                        MF,     59/8  , b. 1988,  Club León (MEX)
+ 16,  Jeremy Sarmiento,                  MF,     17/1  , b. 2002,  Ipswich Town F.C. (ENG)
+ 18,  Joao Ortiz,                        MF,      9/0  , b. 1996,  Independiente del Valle (ECU)
+ 20,  Janner Corozo,                     MF,      4/1  , b. 1995,  Barcelona S.C. (ECU)
+ 21,  Alan Franco,                       MF,     36/1  , b. 1998,  Clube Atlético Mineiro (BRA)
+ 23,  Moisés Caicedo,                    MF,     42/3  , b. 2001,  Chelsea F.C. (ENG)
+
+ 11,  Kevin Rodríguez,                   FW,     13/1  , b. 2000,  Royale Union Saint-Gilloise (BEL)
+ 13,  Enner Valencia,                    FW,     86/41 , b. 1989,  SC Internacional (BRA)
+ 19,  Jordy Caicedo,                     FW,     14/3  , b. 1997,  Atlas F.C. (MEX)
+

@@ -1,0 +1,34 @@
+====================================
+=  Panama - Copa América 2024
+
+
+  1,  Luis Mejía,                        GK,     51/0  , b. 1991,  Club Nacional de Football (URU)
+ 12,  César Samudio,                     GK,      3/0  , b. 1994,  C.D. Marathón (HON)
+ 22,  Orlando Mosquera,                  GK,     23/0  , b. 1994,  Maccabi Tel Aviv F.C. (ISR)
+
+  2,  César Blackman,                    DF,     20/0  , b. 1998,  ŠK Slovan Bratislava (SVK)
+  3,  José Córdoba,                      DF,     14/0  , b. 2001,  Norwich City F.C. (ENG)
+  4,  Eduardo Anderson,                  DF,      6/0  , b. 2001,  Deportivo Saprissa (CRC)
+ 15,  Eric Davis,                        DF,     87/7  , b. 1991,  FC Košice (2018) (SVK)
+ 18,  Omar Valencia,                     DF,      2/0  , b. 2004,  New York Red Bulls (USA)
+ 19,  Iván Anderson,                     DF,     11/1  , b. 1997,  Fortaleza C.E.I.F. (COL)
+ 20,  Harold Cummings,                   DF,     85/1  , b. 1992,  C.S.D. Xelajú MC (GUA)
+ 23,  Michael Amir Murillo,              DF,     68/5  , b. 1996,  Olympique de Marseille (FRA)
+ 24,  Edgardo Fariña,                    DF,      3/0  , b. 2001,  C.S.D. Municipal (GUA)
+ 25,  Roderick Miller,                   DF,     38/2  , b. 1992,  Turan Tovuz (AZE)
+
+  5,  Abdiel Ayarza,                     MF,     27/4  , b. 1992,  Cienciano (PER)
+  6,  Cristian Martínez,                 MF,     39/1  , b. 1997,  Al Jandal SC (KSA)
+  7,  José Luis Rodríguez,               MF,     47/6  , b. 1998,  F.C. Famalicão (POR)
+  8,  Adalberto Carrasquilla,            MF,     53/2  , b. 1998,  Houston Dynamo FC (USA)
+ 10,  Yoel Bárcenas,                     MF,     83/7  , b. 1993,  Mazatlán F.C. (MEX)
+ 13,  Freddy Góndola,                    MF,     18/1  , b. 1995,  Maccabi Bnei Reineh F.C. (ISR)
+ 14,  Jovani Welch,                      MF,     15/1  , b. 1999,  Académico de Viseu F.C. (POR)
+ 16,  Carlos Harvey,                     MF,      5/1  , b. 2000,  Minnesota United FC (USA)
+ 21,  César Yanis,                       MF,     44/3  , b. 1996,  A.D. San Carlos (CRC)
+ 26,  Kahiser Lenis,                     MF,      3/2  , b. 2000,  Jaguares de Córdoba (COL)
+
+  9,  Eduardo Guerrero,                  FW,      9/0  , b. 2000,  FC Zorya Luhansk (UKR)
+ 11,  Ismael Díaz,                       FW,     36/9  , b. 1997,  C.D. Universidad Católica del Ecuador (ECU)
+ 17,  José Fajardo,                      FW,     46/9  , b. 1993,  C.D. Universidad Católica del Ecuador (ECU)
+

@@ -1,0 +1,34 @@
+====================================
+=  Brazil - Copa América 2024
+
+
+  1,  Alisson,                           GK,     65/0  , b. 1992,  Liverpool F.C. (ENG)
+ 12,  Bento,                             GK,      2/0  , b. 1999,  Club Athletico Paranaense (BRA)
+ 23,  Rafael,                            GK,      0/0  , b. 1989,  São Paulo FC (BRA)
+
+  2,  Danilo,                            DF,     57/1  , b. 1991,  Juventus FC (ITA)
+  3,  Éder Militão,                      DF,     31/2  , b. 1998,  Real Madrid CF (ESP)
+  4,  Marquinhos,                        DF,     85/7  , b. 1994,  Paris Saint-Germain F.C. (FRA)
+  6,  Wendell,                           DF,      3/0  , b. 1993,  FC Porto (POR)
+ 13,  Yan Couto,                         DF,      4/0  , b. 2002,  Girona FC (ESP)
+ 14,  Gabriel Magalhães,                 DF,      6/1  , b. 1997,  Arsenal F.C. (ENG)
+ 16,  Guilherme Arana,                   DF,      7/0  , b. 1997,  Clube Atlético Mineiro (BRA)
+ 17,  Lucas Beraldo,                     DF,      3/0  , b. 2003,  Paris Saint-Germain F.C. (FRA)
+ 25,  Bremer,                            DF,      5/0  , b. 1997,  Juventus FC (ITA)
+
+  5,  Bruno Guimarães,                   MF,     22/1  , b. 1997,  Newcastle United F.C. (ENG)
+  8,  Lucas Paquetá,                     MF,     46/10 , b. 1997,  West Ham United F.C. (ENG)
+ 15,  João Gomes,                        MF,      4/0  , b. 2001,  Wolverhampton Wanderers F.C. (ENG)
+ 18,  Douglas Luiz,                      MF,     15/0  , b. 1998,  Aston Villa F.C. (ENG)
+ 19,  Andreas Pereira,                   MF,      5/1  , b. 1996,  Fulham F.C. (ENG)
+ 24,  Éderson,                           MF,      1/0  , b. 1999,  Atalanta BC (ITA)
+
+  7,  Vinícius Júnior,                   FW,     30/3  , b. 2000,  Real Madrid CF (ESP)
+  9,  Endrick,                           FW,      6/3  , b. 2006,  SE Palmeiras (BRA)
+ 10,  Rodrygo,                           FW,     23/6  , b. 2001,  Real Madrid CF (ESP)
+ 11,  Raphinha,                          FW,     23/6  , b. 1996,  FC Barcelona (ESP)
+ 20,  Sávio,                             FW,      3/0  , b. 2004,  Girona FC (ESP)
+ 21,  Evanilson,                         FW,      1/0  , b. 1999,  FC Porto (POR)
+ 22,  Gabriel Martinelli,                FW,     11/2  , b. 2001,  Arsenal F.C. (ENG)
+ 26,  Pepê,                              FW,      2/0  , b. 1997,  FC Porto (POR)
+

@@ -1,0 +1,34 @@
+====================================
+=  Canada - Copa América 2024
+
+
+  1,  Dayne St. Clair,                   GK,      5/0  , b. 1997,  Minnesota United FC (USA)
+ 16,  Maxime Crépeau,                    GK,     17/0  , b. 1994,  Portland Timbers (USA)
+ 18,  Tom McGill,                        GK,      0/0  , b. 2000,  Brighton & Hove Albion F.C. (ENG)
+
+  2,  Alistair Johnston,                 DF,     42/1  , b. 1998,  Celtic F.C. (SCO)
+  3,  Luc de Fougerolles,                DF,      1/0  , b. 2005,  Fulham F.C. (ENG)
+  4,  Kamal Miller,                      DF,     43/0  , b. 1997,  Portland Timbers (USA)
+  5,  Joel Waterman,                     DF,      3/0  , b. 1996,  CF Montréal (CAN)
+ 13,  Derek Cornelius,                   DF,     20/0  , b. 1997,  Malmö FF (SWE)
+ 15,  Moïse Bombito,                     DF,      6/0  , b. 2000,  Colorado Rapids (USA)
+ 19,  Alphonso Davies,                   DF,     47/15 , b. 2000,  FC Bayern Munich (GER)
+ 20,  Ali Ahmed,                         DF,      4/0  , b. 2000,  Vancouver Whitecaps FC (CAN)
+ 22,  Richie Laryea,                     DF,     49/1  , b. 1995,  Toronto FC (CAN)
+ 26,  Kyle Hiebert,                      DF,      2/0  , b. 1997,  St. Louis City SC (USA)
+
+  6,  Samuel Piette,                     MF,     69/0  , b. 1994,  CF Montréal (CAN)
+  7,  Stephen Eustáquio,                 MF,     37/4  , b. 1996,  FC Porto (POR)
+  8,  Ismaël Koné,                       MF,     19/2  , b. 2002,  Watford F.C. (ENG)
+ 21,  Jonathan Osorio,                   MF,     72/9  , b. 1992,  Toronto FC (CAN)
+ 24,  Mathieu Choinière,                 MF,      3/0  , b. 1999,  CF Montréal (CAN)
+
+  9,  Cyle Larin,                        FW,     68/29 , b. 1995,  RCD Mallorca (ESP)
+ 10,  Jonathan David,                    FW,     48/26 , b. 2000,  Lille OSC (FRA)
+ 11,  Theo Bair,                         FW,      2/1  , b. 1999,  Motherwell F.C. (SCO)
+ 12,  Jacen Russell-Rowe,                FW,      5/0  , b. 2002,  Columbus Crew (USA)
+ 14,  Jacob Shaffelburg,                 FW,     10/2  , b. 1999,  Nashville SC (USA)
+ 17,  Tajon Buchanan,                    FW,     38/4  , b. 1999,  Inter Milan (ITA)
+ 23,  Liam Millar,                       FW,     26/1  , b. 1999,  Preston North End F.C. (ENG)
+ 25,  Tani Oluwaseyi,                    FW,      1/0  , b. 2000,  Minnesota United FC (USA)
+

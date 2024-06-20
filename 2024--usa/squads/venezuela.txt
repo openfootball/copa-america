@@ -1,0 +1,34 @@
+====================================
+=  Venezuela - Copa América 2024
+
+
+  1,  Joel Graterol,                     GK,     12/0  , b. 1997,  América de Cali (COL)
+ 12,  José Contreras,                    GK,      6/0  , b. 1994,  Águilas Doradas (COL)
+ 22,  Rafael Romo,                       GK,     20/0  , b. 1990,  C.D. Universidad Católica del Ecuador (ECU)
+
+  2,  Nahuel Ferraresi,                  DF,     25/1  , b. 1998,  São Paulo FC (BRA)
+  3,  Yordan Osorio,                     DF,     29/0  , b. 1994,  Parma Calcio 1913 (ITA)
+  4,  Jon Aramburu,                      DF,      3/0  , b. 2002,  Real Sociedad (ESP)
+  5,  Jhon Chancellor,                   DF,     37/3  , b. 1992,  Metropolitanos F.C. (VEN)
+ 14,  Christian Makoun,                  DF,     10/0  , b. 2000,  Anorthosis Famagusta FC (CYP)
+ 15,  Miguel Navarro,                    DF,     11/0  , b. 1999,  Talleres de Córdoba (ARG)
+ 20,  Wilker Ángel,                      DF,     36/2  , b. 1993,  Criciúma Esporte Clube (BRA)
+ 21,  Alexander González,                DF,     68/2  , b. 1992,  C.S. Emelec (ECU)
+
+  6,  Yangel Herrera,                    MF,     34/3  , b. 1998,  Girona FC (ESP)
+  7,  Jefferson Savarino,                MF,     38/3  , b. 1996,  Botafogo de Futebol e Regatas (BRA)
+  8,  Tomás Rincón,                      MF,    132/1  , b. 1988,  Santos FC (BRA)
+ 10,  Yeferson Soteldo,                  MF,     38/4  , b. 1997,  Grêmio FBPA (BRA)
+ 11,  Darwin Machís,                     MF,     45/11 , b. 1993,  Cádiz CF (ESP)
+ 13,  José Andrés Martínez,              MF,     28/0  , b. 1994,  Philadelphia Union (USA)
+ 16,  Telasco Segovia,                   MF,      2/0  , b. 2003,  Casa Pia A.C. (POR)
+ 17,  Matías Lacava,                     MF,      0/0  , b. 2002,  F.C. Vizela (POR)
+ 18,  Cristian Cásseres Jr.,             MF,     28/0  , b. 2000,  Toulouse FC (FRA)
+ 24,  Kervin Andrade,                    MF,      1/0  , b. 2005,  Fortaleza Esporte Clube (BRA)
+ 25,  Eduard Bello,                      MF,     14/2  , b. 1995,  Mazatlán F.C. (MEX)
+ 26,  Daniel Pereira,                    MF,      4/0  , b. 2000,  Austin FC (USA)
+
+  9,  Jhonder Cádiz,                     FW,      7/0  , b. 1995,  F.C. Famalicão (POR)
+ 19,  Eric Ramírez,                      FW,      9/1  , b. 1998,  Atlético Nacional (COL)
+ 23,  Salomón Rondón,                    FW,    104/41 , b. 1989,  C.F. Pachuca (MEX)
+

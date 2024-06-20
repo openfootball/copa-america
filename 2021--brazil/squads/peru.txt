@@ -1,0 +1,34 @@
+====================================
+=  Peru - Copa América 2021
+
+
+  1,  Pedro Gallese,                     GK,     68/0  , b. 1990,  Orlando City SC (USA)
+ 12,  Carlos Cáceda,                     GK,      6/0  , b. 1991,  FBC Melgar (PER)
+ 21,  José Carvallo,                     GK,      7/0  , b. 1986,  Club Universitario de Deportes (PER)
+
+  2,  Luis Abram,                        DF,     26/1  , b. 1996,  Club Atlético Vélez Sarsfield (ARG)
+  3,  Aldo Corzo,                        DF,     31/0  , b. 1989,  Club Universitario de Deportes (PER)
+  4,  Anderson Santamaría,               DF,     17/0  , b. 1992,  Atlas F.C. (MEX)
+  5,  Miguel Araujo,                     DF,     19/0  , b. 1994,  FC Emmen (NED)
+  6,  Miguel Trauco,                     DF,     52/0  , b. 1992,  AS Saint-Étienne (FRA)
+ 15,  Christian Ramos,                   DF,     77/3  , b. 1988,  Club Deportivo Universidad César Vallejo (PER)
+ 16,  Marcos López,                      DF,      6/0  , b. 1999,  San Jose Earthquakes (USA)
+ 22,  Alexander Callens,                 DF,     13/1  , b. 1992,  New York City FC (USA)
+ 25,  Renzo Garcés,                      DF,      0/0  , b. 1996,  Club Deportivo Universidad César Vallejo (PER)
+ 26,  Jhilmar Lora,                      DF,      0/0  , b. 2000,  Sporting Cristal (PER)
+
+  7,  Gerald Távara,                     MF,      0/0  , b. 1999,  Sporting Cristal (PER)
+  8,  Sergio Peña,                       MF,     10/0  , b. 1995,  FC Emmen (NED)
+ 10,  Christian Cueva,                   MF,     72/11 , b. 1991,  Al Fateh SC (KSA)
+ 13,  Renato Tapia,                      MF,     58/4  , b. 1995,  RC Celta de Vigo (ESP)
+ 14,  Wilder Cartagena,                  MF,      6/0  , b. 1994,  Godoy Cruz Antonio Tomba (ARG)
+ 19,  Yoshimar Yotún,                    MF,     98/3  , b. 1990,  Cruz Azul (MEX)
+ 23,  Alexis Arias,                      MF,      2/0  , b. 1995,  FBC Melgar (PER)
+ 24,  Raziel García,                     MF,      0/0  , b. 1994,  Cienciano (PER)
+
+  9,  Gianluca Lapadula,                 FW,      4/0  , b. 1990,  Benevento Calcio (ITA)
+ 11,  Alex Valera,                       FW,      0/0  , b. 1996,  Club Universitario de Deportes (PER)
+ 17,  Luis Iberico,                      FW,      1/0  , b. 1998,  FBC Melgar (PER)
+ 18,  André Carrillo,                    FW,     70/9  , b. 1991,  Al Hilal SFC (KSA)
+ 20,  Santiago Ormeño,                   FW,      0/0  , b. 1994,  Club Puebla (MEX)
+
