@@ -19,7 +19,7 @@
   7,  Juan Carlos Arce,                  MF,     76/12 , b. 1985,  Club Always Ready (BOL)
  13,  Diego Wayar,                       MF,     22/0  , b. 1993,  The Strongest (BOL)
  14,  Moisés Villarroel,                 MF,      2/0  , b. 1998,  C.D. Jorge Wilstermann (BOL)
- 15,  Boris Céspedes,                    MF,      4/1  , b. 1995,  Servette FC (SWI)
+ 15,  Boris Céspedes,                    MF,      4/1  , b. 1995,  Servette FC (SUI)
  16,  Erwin Saavedra,                    MF,     25/2  , b. 1996,  Club Bolívar (BOL)
  17,  Roberto Fernández,                 MF,      7/0  , b. 1999,  Club Bolívar (BOL)
  20,  Ramiro Vaca,                       MF,      8/1  , b. 1999,  The Strongest (BOL)
