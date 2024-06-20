@@ -85,9 +85,9 @@ Group A:
 
 
 
-## Build Your Own `copaamerica.db` Copy
+## Build Your Own `copa.db` Copy
 
-Use the `sportdb` command line tool to build your own `copaamerica.db` copy
+Use the `sportdb` command line tool to build your own `copa.db` copy
 from the plain text fixtures. [More »](https://github.com/openfootball/datafile)
 
 Note, the Copa América includes national team invitees from other continents (confederations)
