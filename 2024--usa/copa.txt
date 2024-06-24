@@ -28,8 +28,10 @@ Group A:
 
 Group B: 
 
- (4) Sat Jun/22 15:00    Ecuador        -   Venezuela  @ Levi's Stadium, Santa Clara, California (UTC−7)
- (3) Sat Jun/22 20:00    Mexico        -   Jamaica    @ NRG Stadium, Houston, Texas (UTC−5)
+ (4) Sat Jun/22 15:00    Ecuador        1-2   Venezuela  @ Levi's Stadium, Santa Clara, California (UTC−7)
+                            [Sarmiento 40'; Cádiz 64' Bello 74']
+ (3) Sat Jun/22 20:00    Mexico        1-0   Jamaica    @ NRG Stadium, Houston, Texas (UTC−5)
+                            [Arteaga 69']
 
 (12) Wed Jun/26 15:00    Ecuador        -   Jamaica  @ Allegiant Stadium, Las Vegas, Nevada (UTC−7)
 (11) Wed Jun/26 18:00    Venezuela    -   Mexico   @ SoFi Stadium, Inglewood, California (UTC−7)
@@ -39,8 +41,10 @@ Group B:
 
 Group C: 
 
- (5) Sun Jun/23 17:00    United States   -  Bolivia   @ AT&T Stadium, Arlington, Texas (UTC−5)
- (6) Sun Jun/23 21:00    Uruguay         -   Panama    @ Hard Rock Stadium, Miami Gardens, Florida (UTC−4)
+ (5) Sun Jun/23 17:00    United States   2-0  Bolivia   @ AT&T Stadium, Arlington, Texas (UTC−5)
+                  [Pulisic 3' Balogun 44']       
+ (6) Sun Jun/23 21:00    Uruguay         3-1   Panama    @ Hard Rock Stadium, Miami Gardens, Florida (UTC−4)
+                   [M. Araújo 16' Núñez 85' Viña 90+1'; Murillo 90+5']        
 
 (13) Thu Jun/27 18:00    Panama       -   United States  @ Mercedes-Benz Stadium, Atlanta, Georgia (UTC−4)
 (14) Thu Jun/27 21:00    Uruguay      -    Bolivia    @ MetLife Stadium, East Rutherford, New Jersey (UTC−4)
