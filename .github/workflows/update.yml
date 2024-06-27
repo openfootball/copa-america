@@ -23,22 +23,34 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
+    env: # $BUNDLE_GEMFILE must be set at the job level, so it is set for all steps
+      BUNDLE_GEMFILE: ${{ github.workspace }}/.github/workflow/Gemfile
+
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.2' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
+        ruby-version: '3.2'  # Version range or exact version of a Ruby version to use, using semvers version range syntax.
+        bundler-cache: true  # runs 'bundle install' and caches installed gems automatically
+
+     - name: try misc debug stuff
+       run: |
+          echo ${{ github.workspace }}
+          echo $GITHUB_WORKSPACE
+          gem list
+          gem env
+
 
     - name: run install / add user
       env:
         SSH_KEY: ${{ secrets.SSH_KEY }}
       run: |
-        bundle install --gemfile=.github/workflows/Gemfile
         yo -f .github/workflows/Flowfile.rb adduser
-
+##  bundle install --gemfile=.github/workflows/Gemfile
+  
     - name: Run ssh_clone
       run:  yo -f .github/workflows/Flowfile.rb clone
 
