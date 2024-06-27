@@ -26,6 +26,15 @@ jobs:
     env: # $BUNDLE_GEMFILE must be set at the job level, so it is set for all steps
       BUNDLE_GEMFILE: ${{ github.workspace }}/.github/workflows/Gemfile
 
+##
+## plus try with
+##  bundle lock --add-platform PLATFORM
+##   to pre-generate lock file
+##  platform for ubuntu-latest is:  x86_64-linux
+##   try
+##   $ bundle lock --add-platform=x86_64-linux --gemfile=.github/workflows/Gemfile
+
+
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it

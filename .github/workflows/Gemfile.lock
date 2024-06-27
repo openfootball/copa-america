@@ -1,0 +1,141 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activemodel (7.1.3.4)
+      activesupport (= 7.1.3.4)
+    activerecord (7.1.3.4)
+      activemodel (= 7.1.3.4)
+      activesupport (= 7.1.3.4)
+      timeout (>= 0.4.0)
+    activerecord-utils (0.4.1)
+      activerecord
+      logutils
+    activesupport (7.1.3.4)
+      base64
+      bigdecimal
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      connection_pool (>= 2.2.5)
+      drb
+      i18n (>= 1.6, < 2)
+      minitest (>= 5.1)
+      mutex_m
+      tzinfo (~> 2.0)
+    alphabets (1.0.2)
+    base64 (0.2.0)
+    bigdecimal (3.1.8)
+    concurrent-ruby (1.3.3)
+    connection_pool (2.4.1)
+    csvjson (1.0.1)
+    csvreader (1.2.5)
+      csvjson (>= 1.0.0)
+      csvyaml (>= 0.1.0)
+      tabreader (>= 1.0.1)
+    csvyaml (1.0.0)
+    date-formats (1.0.2)
+    drb (2.2.1)
+    flow-lite (1.1.0)
+    footballdb-data (2024.6.22)
+    gitti (0.6.1)
+      shell-lite (>= 0.0.1)
+    gitti-backup (0.4.1)
+      gitti (>= 0.3.0)
+    hubba (1.0.2)
+      webclient (>= 0.1.1)
+    hubba-reports (1.0.1)
+      hubba (>= 1.0.0)
+    i18n (1.14.5)
+      concurrent-ruby (~> 1.0)
+    iniparser (1.0.1)
+    logutils (0.6.1)
+    logutils-activerecord (0.2.1)
+      activerecord
+      logutils (>= 0.6.1)
+    minitest (5.24.0)
+    monofile (0.2.4)
+    monos (1.1.1)
+      gitti (>= 0.6.1)
+      gitti-backup (>= 0.4.1)
+      monofile (>= 0.2.2)
+    mutex_m (0.2.0)
+    persondb-models (0.5.0)
+      worlddb-models
+    props (1.2.0)
+      iniparser (>= 0.1.0)
+    props-activerecord (0.2.0)
+      activerecord
+      props (>= 1.2.0)
+    rubyzip (2.3.2)
+    score-formats (0.1.1)
+    season-formats (0.0.1)
+    shell-lite (0.0.1)
+    sportdb-catalogs (1.2.0)
+      footballdb-data
+      sportdb-formats
+      sqlite3
+    sportdb-exporters (0.1.0)
+    sportdb-formats (1.2.0)
+      rubyzip (>= 1.2.4)
+      sportdb-structs (>= 0.1.1)
+    sportdb-langs (0.1.1)
+      logutils (>= 0.6.1)
+    sportdb-models (2.1.0)
+      persondb-models (>= 0.5.0)
+      worlddb-models (>= 2.4.0)
+    sportdb-readers (1.2.0)
+      sportdb-sync (>= 1.2.0)
+    sportdb-structs (0.2.0)
+      alphabets (>= 1.0.0)
+      csvreader (>= 1.2.4)
+      date-formats (>= 1.0.2)
+      score-formats (>= 0.1.1)
+      season-formats (>= 0.0.1)
+      sportdb-langs (>= 0.1.1)
+    sportdb-sync (1.2.0)
+      sportdb-catalogs (>= 1.2.0)
+      sportdb-models (>= 2.1.0)
+    sqlite3 (1.7.3-x64-mingw-ucrt)
+    sqlite3 (1.7.3-x86_64-linux)
+    tabreader (1.0.1)
+    tagutils (1.0.0)
+      activerecord
+      logutils (>= 0.6.1)
+      props (>= 1.2.0)
+      textutils (>= 1.4.0)
+    textutils (1.4.0)
+      activesupport
+      logutils (>= 0.6.1)
+      props (>= 1.1.2)
+      rubyzip (>= 1.0.0)
+    timeout (0.4.1)
+    tzinfo (2.0.6)
+      concurrent-ruby (~> 1.0)
+    webclient (0.2.2)
+    worlddb-models (2.4.1)
+      activerecord
+      activerecord-utils (>= 0.4.0)
+      logutils (>= 0.6.1)
+      logutils-activerecord (>= 0.2.1)
+      props (>= 1.2.0)
+      props-activerecord (>= 0.2.0)
+      rubyzip
+      tagutils (>= 1.0.0)
+      textutils (>= 1.4.0)
+    yorobot (1.1.0)
+      flow-lite (>= 1.1.0)
+      gitti (>= 0.6.1)
+      hubba (>= 1.0.0)
+      hubba-reports (>= 1.0.1)
+      monos (>= 1.1.1)
+
+PLATFORMS
+  x64-mingw-ucrt
+  x86_64-linux
+
+DEPENDENCIES
+  sportdb-exporters
+  sportdb-readers
+  sqlite3 (~> 1.4)
+  yorobot
+
+BUNDLED WITH
+   2.4.14
