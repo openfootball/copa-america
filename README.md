@@ -41,8 +41,9 @@ Matchday 3  |  Sat Jun/29 - Tue Jul/2
 
 Group A:
 
- (1) Thu Jun/20 20:00    Argentina  -  Canada  @ Mercedes-Benz Stadium, Atlanta, Georgia (UTC−4)
- (2) Fri Jun/21 19:00    Peru       -  Chile   @ AT&T Stadium, Arlington, Texas (UTC−5)
+ (1) Thu Jun/20 20:00    Argentina  1-0  Canada  @ Mercedes-Benz Stadium, Atlanta, Georgia (UTC−4)
+                               [Álvarez 49' La. Martínez 88']
+ (2) Fri Jun/21 19:00    Peru       0-0  Chile   @ AT&T Stadium, Arlington, Texas (UTC−5)
  ...
 ```
 
