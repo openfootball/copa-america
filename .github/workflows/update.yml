@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env: # $BUNDLE_GEMFILE must be set at the job level, so it is set for all steps
-      BUNDLE_GEMFILE: ${{ github.workspace }}/.github/workflow/Gemfile
+      BUNDLE_GEMFILE: ${{ github.workspace }}/.github/workflows/Gemfile
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -36,8 +36,9 @@ jobs:
         ruby-version: '3.2'  # Version range or exact version of a Ruby version to use, using semvers version range syntax.
         bundler-cache: true  # runs 'bundle install' and caches installed gems automatically
 
-     - name: try misc debug stuff
-       run: |
+
+    - name: try misc debug stuff
+      run: |
           echo ${{ github.workspace }}
           echo $GITHUB_WORKSPACE
           gem list
