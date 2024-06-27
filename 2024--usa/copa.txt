@@ -20,8 +20,10 @@ Group A:
  (2) Fri Jun/21 19:00    Peru           0-0   Chile   @ AT&T Stadium, Arlington, Texas (UTC−5)
 
 
-(10) Tue Jun/25 17:00    Peru           -   Canada    @ Children's Mercy Park, Kansas City, Kansas (UTC−5)
- (9) Tue Jun/25 21:00    Chile          -   Argentina @ MetLife Stadium, East Rutherford, New Jersey (UTC−4)
+(10) Tue Jun/25 17:00    Peru           0-1   Canada    @ Children's Mercy Park, Kansas City, Kansas (UTC−5)
+                  [-; David 74']
+ (9) Tue Jun/25 21:00    Chile          0-1   Argentina @ MetLife Stadium, East Rutherford, New Jersey (UTC−4)
+                  [-; La. Martínez 88']
 
 (17) Sat Jun/29 20:00    Argentina      -   Peru    @ Hard Rock Stadium, Miami Gardens, Florida (UTC−4)
 (18) Sat Jun/29 20:00    Canada         -   Chile   @ Inter&Co Stadium, Orlando, Florida (UTC−4)
@@ -33,8 +35,10 @@ Group B:
  (3) Sat Jun/22 20:00    Mexico        1-0   Jamaica    @ NRG Stadium, Houston, Texas (UTC−5)
                             [Arteaga 69']
 
-(12) Wed Jun/26 15:00    Ecuador        -   Jamaica  @ Allegiant Stadium, Las Vegas, Nevada (UTC−7)
-(11) Wed Jun/26 18:00    Venezuela    -   Mexico   @ SoFi Stadium, Inglewood, California (UTC−7)
+(12) Wed Jun/26 15:00    Ecuador        3-1   Jamaica  @ Allegiant Stadium, Las Vegas, Nevada (UTC−7)
+                            [Palmer 13' (o.g.) Páez 45+4' (pen.) Minda 90+1'; Antonio 54']
+(11) Wed Jun/26 18:00    Venezuela    1-0   Mexico   @ SoFi Stadium, Inglewood, California (UTC−7)
+                            [Rondón 57' (pen.)]
 
 (19) Sun Jun/30 17:00    Mexico        -   Ecuador  @ State Farm Stadium, Glendale, Arizona (UTC−7)
 (20) Sun Jun/30 19:00    Jamaica        -   Venezuela  @ Q2 Stadium, Austin, Texas (UTC−5)
@@ -55,8 +59,9 @@ Group C:
 
 Group D:
 
- (8) Mon Jun/24 17:00    Colombia         -   Paraguay   @ NRG Stadium, Houston, Texas (UTC−5) 
- (7) Mon Jun/24 18:00    Brazil           -   Costa Rica @ SoFi Stadium, Inglewood, California (UTC−7)
+ (8) Mon Jun/24 17:00    Colombia         2-1   Paraguay   @ NRG Stadium, Houston, Texas (UTC−5) 
+                             [Muñoz 32' Lerma 42'; Enciso 69']
+ (7) Mon Jun/24 18:00    Brazil           0-0   Costa Rica @ SoFi Stadium, Inglewood, California (UTC−7)
 
 (16) Fri Jun/28 15:00    Colombia         -    Costa Rica  @ State Farm Stadium, Glendale, Arizona (UTC−7)
 (15) Fri Jun/28 18:00    Paraguay         -     Brazil      @ Allegiant Stadium, Las Vegas, Nevada (UTC−7)
