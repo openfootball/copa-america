@@ -43,20 +43,29 @@ jobs:
           echo $GITHUB_WORKSPACE
           gem list
           gem env
+          ruby -e 'pp $:'
+          ruby -r 'bundler/setup' -e 'pp $:'
+          bundle exec ruby -e 'pp $:' 
+          echo $BUNDLE_GEMFILE
+  #=> /home/runner/work/copa-america/copa-america
+  #=> /home/runner/work/copa-america/copa-america
 
 
     - name: run install / add user
       env:
         SSH_KEY: ${{ secrets.SSH_KEY }}
       run: |
-        yo -f .github/workflows/Flowfile.rb adduser
+        bundle exec yo -f .github/workflows/Flowfile.rb adduser
+
 ##  bundle install --gemfile=.github/workflows/Gemfile
+##  yo -f .github/workflows/Flowfile.rb adduser
   
     - name: Run ssh_clone
-      run:  yo -f .github/workflows/Flowfile.rb clone
+      run:  bundle exec yo -f .github/workflows/Flowfile.rb clone
 
     - name: gen json
-      run:  ruby .github/workflows/genjson.rb
+      run:  bundle exec ruby .github/workflows/genjson.rb
+      #   add -r 'bundler/setup' - why? why not?
 
     - name: Run ssh_push
-      run:  yo -f .github/workflows/Flowfile.rb push
+      run:  bundle exec yo -f .github/workflows/Flowfile.rb push
