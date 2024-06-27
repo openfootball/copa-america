@@ -43,8 +43,11 @@ jobs:
           echo $GITHUB_WORKSPACE
           gem list
           gem env
+          echo 'loadpath setup v1:'
           ruby -e 'pp $:'
+          echo 'loadpath setup v2:'
           ruby -r 'bundler/setup' -e 'pp $:'
+          echo 'loadpath setup v3:'
           bundle exec ruby -e 'pp $:' 
           echo $BUNDLE_GEMFILE
   #=> /home/runner/work/copa-america/copa-america
