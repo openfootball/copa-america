@@ -92,14 +92,15 @@ Quarter-finals
 
 Semi-finals
 
-(29) Tue Jul/9 20:00    Argentina - Canada    @ MetLife Stadium, East Rutherford, New Jersey (UTC−4)   # Winner Match 25 - Winner Match 26
-(30) Wed Jul/10 20:00   Uruguay - Colombia    @ Bank of America Stadium, Charlotte, North Carolina (UTC−4)   # Winner Match 27 - Winner Match 28
+(29) Tue Jul/9 20:00    Argentina 2-0 Canada    @ MetLife Stadium, East Rutherford, New Jersey (UTC−4)   # Winner Match 25 - Winner Match 26
+                          [Álvarez 22' Messi 51']
+(30) Wed Jul/10 20:00   Uruguay 0-1 Colombia    @ Bank of America Stadium, Charlotte, North Carolina (UTC−4)   # Winner Match 27 - Winner Match 28
+                          [-; Lerma 39']
 
 Third place play-off
 
-# (31) Sat Jul/13 20:00  Loser Match 29     -   Loser Match 30  @ Bank of America Stadium, Charlotte, North Carolina (UTC−4)
+(31) Sat Jul/13 20:00   Canada - Uruguay    @ Bank of America Stadium, Charlotte, North Carolina (UTC−4)   # Loser Match 29 - Loser Match 30
 
 Final
 
-# (32) Sat Jul/14 20:00   Winner Match 29      -   Winner Match 30  @ Hard Rock Stadium, Miami Gardens, Florida (UTC−4)
-
+(32) Sat Jul/14 20:00    Argentina - Colombia       @ Hard Rock Stadium, Miami Gardens, Florida (UTC−4)    # Winner Match 29 - Winner Match 30
