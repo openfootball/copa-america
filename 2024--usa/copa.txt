@@ -13,7 +13,7 @@ Matchday 3  |  Sat Jun/29 - Tue Jul/2
 
 
 
-Group A:
+Group A
 
  (1) Thu Jun/20 20:00    Argentina      2-0   Canada  @ Mercedes-Benz Stadium, Atlanta, Georgia (UTC-4)
                  [Álvarez 49' La. Martínez 88']                   
@@ -29,7 +29,7 @@ Group A:
                          [La. Martínez 47', 86']
 (18) Sat Jun/29 20:00    Canada         0-0   Chile   @ Inter&Co Stadium, Orlando, Florida (UTC-4)
 
-Group B: 
+Group B
 
  (4) Sat Jun/22 15:00    Ecuador        1-2   Venezuela  @ Levi's Stadium, Santa Clara, California (UTC-7)
                             [Sarmiento 40'; Cádiz 64' Bello 74']
@@ -45,7 +45,7 @@ Group B:
 (20) Sun Jun/30 19:00    Jamaica        0-3   Venezuela  @ Q2 Stadium, Austin, Texas (UTC-5)
                            [-; Bello 49' Rondón 56' Ramírez 85']
 
-Group C: 
+Group C
 
  (5) Sun Jun/23 17:00    United States   2-0  Bolivia   @ AT&T Stadium, Arlington, Texas (UTC-5)
                   [Pulisic 3' Balogun 44']       
@@ -62,7 +62,7 @@ Group C:
 (22) Mon Jul/1 21:00     Bolivia         1-3   Panama    @ Inter&Co Stadium, Orlando, Florida (UTC-4)
                            [Miranda 69'; Fajardo 22' Guerrero 79' Yanis 90+1']
 
-Group D:
+Group D
 
  (8) Mon Jun/24 17:00    Colombia         2-1   Paraguay   @ NRG Stadium, Houston, Texas (UTC-5) 
                              [Muñoz 32' Lerma 42'; Enciso 69']
@@ -97,10 +97,14 @@ Semi-finals
 (30) Wed Jul/10 20:00   Uruguay 0-1 Colombia    @ Bank of America Stadium, Charlotte, North Carolina (UTC-4)   # Winner Match 27 - Winner Match 28
                           [-; Lerma 39']
 
+
 Third place play-off
 
-(31) Sat Jul/13 20:00   Canada - Uruguay    @ Bank of America Stadium, Charlotte, North Carolina (UTC-4)   # Loser Match 29 - Loser Match 30
+(31) Sat Jul/13 20:00   Canada  3-4 pen. (2-2) Uruguay    @ Bank of America Stadium, Charlotte, North Carolina (UTC-4)   # Loser Match 29 - Loser Match 30
+                [Koné 22' David 80'; Bentancur 8' Suárez 90+2']
+
 
 Final
 
-(32) Sat Jul/14 20:00    Argentina - Colombia       @ Hard Rock Stadium, Miami Gardens, Florida (UTC-4)    # Winner Match 29 - Winner Match 30
+(32) Sat Jul/14 20:00    Argentina 1-0 a.e.t. (0-0) Colombia       @ Hard Rock Stadium, Miami Gardens, Florida (UTC-4)    # Winner Match 29 - Winner Match 30
+                       [La. Martínez 112']

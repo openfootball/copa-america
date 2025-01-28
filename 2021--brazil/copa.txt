@@ -11,7 +11,7 @@ Matchday 4  | Jun/23-Jun/24
 Matchday 5  | Jun/27-Jun/28
 
 
-Group A:
+Group A
 
 
 Jun/14 18:00   Argentina   1-1   Chile  @ Estádio Olímpico Nilton Santos, Rio de Janeiro # BRT (UTC-3)
@@ -45,7 +45,7 @@ Jun/28 21:00   Uruguay   1-0   Paraguay  @ Estádio Olímpico Nilton Santos, Rio
                  [Saavedra 60'; Gómez 6' Messi 33' (pen.), 42' La. Martínez 65']
 
 
-Group B: 
+Group B
 
 Jun/13 18:00   Brazil   3-0   Venezuela  @ Estádio Nacional Mané Garrincha, Brasília   # BRT (UTC-3)
                 [Marquinhos 23' Neymar 64' (pen.) Gabriel Barbosa 89']

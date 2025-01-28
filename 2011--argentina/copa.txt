@@ -21,7 +21,7 @@ Matchday 12 |  Jul/13
 
 
 
-Group A:
+Group A
 
 Jul/1 21:45   Argentina  1-1  Bolivia
 Jul/2 15:30   Colombia   1-0  Costa Rica
@@ -33,7 +33,7 @@ Jul/10 16:00   Colombia   2-0  Bolivia
 Jul/11 21:45   Argentina  3-0  Costa Rica
 
 
-Group B:
+Group B
 
 Jul/3 16:00   Brazil    0-0  Venezuela
 Jul/3 18:30   Paraguay  0-0  Ecuador
@@ -45,7 +45,7 @@ Jul/13 19:15   Paraguay  3-3  Venezuela
 Jul/13 21:45   Brazil    4-2  Ecuador
 
 
-Group C:
+Group C
 
 Jul/4 19:15   Uruguay  1-1  Peru
 Jul/4 21:45   Chile    2-1  Mexico
