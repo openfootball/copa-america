@@ -8,8 +8,9 @@ for national teams in South America (e.g. Copa América)
 
 A free open public domain football (soccer) database & schema
 for use in any (programming) language
-(e.g. uses plain text fixtures/data sets).
+using data sets in the Football.TXT format.
 More [`football.db` Project Site »](http://openfootball.github.io)
+
 
 ## Intro
 
@@ -28,22 +29,22 @@ Example:
 = Copa América 2024      # in USA
 
 
-Group A  |  Argentina       Peru       Chile      Canada  
+Group A  |  Argentina       Peru       Chile      Canada
 Group B  |  Mexico          Ecuador    Venezuela  Jamaica
-Group C  |  United States   Uruguay    Panama     Bolivia 
+Group C  |  United States   Uruguay    Panama     Bolivia
 Group D  |  Brazil          Colombia   Paraguay   Costa Rica
 
 
-Matchday 1  |  Thu Jun/20 - Mon Jun/24
-Matchday 2  |  Tue Jun/25 - Fri Jun/28
-Matchday 3  |  Sat Jun/29 - Tue Jul/2
+▪ Matchday 1  |  Thu Jun 20 - Mon Jun 24
+▪ Matchday 2  |  Tue Jun 25 - Fri Jun 28
+▪ Matchday 3  |  Sat Jun 29 - Tue Jul 2
 
 
-Group A:
+▪ Group A
 
- (1) Thu Jun/20 20:00    Argentina  1-0  Canada  @ Mercedes-Benz Stadium, Atlanta, Georgia (UTC−4)
-                               [Álvarez 49' La. Martínez 88']
- (2) Fri Jun/21 19:00    Peru       0-0  Chile   @ AT&T Stadium, Arlington, Texas (UTC−5)
+Thu Jun 20 20:00 UTC−4   Argentina  1-0  Canada  @ Mercedes-Benz Stadium, Atlanta, Georgia
+                               (Álvarez 49' La. Martínez 88')
+Fri Jun 21 19:00 UTC−5   Peru       0-0  Chile   @ AT&T Stadium, Arlington, Texas
  ...
 ```
 
@@ -86,10 +87,10 @@ Group A:
 
 
 
-## Build Your Own `copa.db` Copy
+## Build Your Own `copa.db` Database or `copa.json/.csv` Datasets
 
-Use the `sportdb` command line tool to build your own `copa.db` copy
-from the plain text fixtures. [More »](https://github.com/openfootball/datafile)
+Yes, you can. See the [football.db/.json/.csv How-Tos »](https://github.com/openfootball/quick-starter)
+
 
 Note, the Copa América includes national team invitees from other continents (confederations)
 e.g. Mexico, Costa Rica, Japan, etc.
@@ -100,4 +101,3 @@ e.g. Mexico, Costa Rica, Japan, etc.
 
 Yes, you can. More than welcome.
 See [Help & Support »](https://github.com/openfootball/help)
-
